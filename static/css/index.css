@@ -623,6 +623,11 @@ li::before {
   border-bottom: 1px solid #363636;
 }
 
+.line2 {
+  border-bottom: 1px solid #363636;
+  padding-bottom: 50px;
+}
+
 .cl {
     color: #0077b6;
 }
