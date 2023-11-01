@@ -597,3 +597,28 @@ section {
 .todo__state:checked ~ .todo__icon .todo__circle {
   animation-name: explode;
 }
+
+p {
+    margin: 10px 0;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li::before {
+    content: "•";
+    margin-right: 5px;
+}
+
+.key {
+    font-weight: bold;
+    color: #0077b6;
+}
+
+.line {
+  border-bottom: 1px solid #363636;
+}
+
+.cl {
+    color: #0077b6;
+}

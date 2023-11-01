@@ -43,7 +43,7 @@
         <div class="columns is-centered">
             <div class="column has-text-centered">
             <h1 class="title is-1 publication-title">
-                AnKaS
+                <span class="cl">AnKaS</span>: Development and <span class="cl">An</span>alysis of the Database of Livvi-<span class="cl">Ka</span>relian <span class="cl">S</span>peech Annotations
             </h1>
             <div class="is-size-5 publication-authors">
                 <span class="author-block">Authors are hidden for peer review<sup>1</sup></span>
@@ -77,24 +77,34 @@
                     <span>arXiv</span>
                     </a>
                 </span> -->
+                <!-- Dataset Link. -->
+                <span class="link-block">
+                    <a href="https://github.com/KarelianSpeech/AnKaS/tree/main/AnKaS/json" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                        <i class="far fa-images"></i>
+                    </span>
+                    <span>Data</span>
+                    </a>
+                </span>
+                <!-- Vocabulary Link. -->
+                <span class="link-block">
+                    <a href="https://github.com/KarelianSpeech/AnKaS/tree/main/AnKaS/voc" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                        <i class="fab fa-github"></i>
+                    </span>
+                    <span>Vocabulary</span>
+                    </a>
+                </span>
                 <!-- Code Link. -->
                 <span class="link-block">
-                    <a href="https://github.com/KarelianSpeech/AnKaS/tree/main" target="_blank"
+                    <a href="#" target="_blank"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                         <i class="fab fa-github"></i>
                     </span>
                     <span>Code (coming soon)</span>
-                    </a>
-                </span>
-                <!-- Dataset Link. -->
-                <span class="link-block">
-                    <a href="#"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                        <i class="far fa-images"></i>
-                    </span>
-                    <span>Data (coming soon)</span>
                     </a>
                 </span>
                 </div>
@@ -241,6 +251,47 @@
                             <input type="range" min="0" max="1" value="5" class="slider slider-input-third" aria-label=""/>
                         </div>
                     </main>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-section">
+            <div class="container is-max-desktop">
+                <div class="results line">
+                    <div class="columns is-centered has-text-centered">
+                        <div class="column is-four-fifths">
+                            <h2 class="title is-3"><strong>AnKaS</strong> Database Key Information</h2>
+                        </div>
+                    </div>
+                    <div>
+                        <p>Database of Annotations of Karelian Speech (<strong>AnKaS</strong>) includes timestamps, textual transcriptions, and code-switching marks of Livvi-Karelian radio broadcasts.</p>
+
+                        <p>The database is represented in <a href="https://github.com/KarelianSpeech/AnKaS/tree/main/AnKaS/json" target="_blank">JSON</a> format. A separate <a href="https://github.com/KarelianSpeech/AnKaS/tree/main/AnKaS/json" target="_blank">.json</a> file was created for each speaker. The following keys are used:</p>
+
+                        <ul>
+                            <li><span class="key">"phrase_id"</span> is the phrase number for this speaker;</li>
+                            <li><span class="key">"link"</span> is a link to the audio recording;</li>
+                            <li><span class="key">"time_start"</span> is start time of the phrase;</li>
+                            <li><span class="key">"time_end"</span> is end time of the phrase;</li>
+                            <li><span class="key">"sentence"</span> is textual transcription;</li>
+                            <li><span class="key">"sentence_rus"</span> is textual transcription with code-switching, indicated with brackets and the tag "rus";</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-section">
+            <div class="container is-max-desktop">
+                <div class="results line">
+                    <div class="columns is-centered has-text-centered">
+                        <div class="column is-four-fifths">
+                            <h2 class="title is-3">Vocabulary Information</h2>
+                        </div>
+                    </div>
+                    <div>
+                        <p><a href="https://github.com/KarelianSpeech/AnKaS/blob/main/AnKaS/voc/voc.txt" target="_blank">voc.txt</a> contains list of words from textual transcriptions from <strong>AnKaS</strong> database with their phonemic representation. Vocabulary includes Karelian words as well as most frequent Russian words. Transcriptions for Russian words were made according to Russian transcribing rules.</p>
+                    </div>
                 </div>
             </div>
         </div>
