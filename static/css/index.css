@@ -32,6 +32,10 @@ section {
   display: none;
 }
 
+.database-section2 {
+  padding: 50px 0;
+}
+
 .method-section {
   padding: 0 24px;
 
