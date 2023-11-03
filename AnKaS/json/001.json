@@ -1121,61 +1121,13 @@
 {
     "phrase_id": "0141",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "618.9412239",
-    "time_end": "622.5840000",
-    "sentence": "svetlana mihailovna kuibo elittö enne konzu tuldu euluh",
-    "sentence_rus": "<svetlana mihailovna>rus kuibo elittö enne konzu tuldu euluh"
-}
-{
-    "phrase_id": "0142",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "755.6523709",
-    "time_end": "762.5158364",
-    "sentence": "kuni minä olen hengis sanou svetlana mihailovna čuprova omua mägrätjärvie nikonzu en hylgiä",
-    "sentence_rus": "kuni minä olen hengis sanou <svetlana mihailovna čuprova>rus omua mägrätjärvie nikonzu en hylgiä"
-}
-{
-    "phrase_id": "0143",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "762.7658113",
-    "time_end": "767.4411405",
-    "sentence": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah",
-    "sentence_rus": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah"
-}
-{
-    "phrase_id": "0144",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "829.3365000",
-    "time_end": "833.6766886",
-    "sentence": "svetlana mihailovna midäbo vot vie himoittaš omah hiruh niškoi azuo",
-    "sentence_rus": "<svetlana mihailovna>rus midäbo <vot>rus vie himoittaš omah hiruh niškoi azuo"
-}
-{
-    "phrase_id": "0145",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "860.2665000",
-    "time_end": "862.7726561",
-    "sentence": "a vetty kuspäi kaivospäi otatto da kodih",
-    "sentence_rus": "a vetty kuspäi kaivospäi otatto <da>rus kodih"
-}
-{
-    "phrase_id": "0146",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1000.0349761",
-    "time_end": "1001.7177809",
-    "sentence": "viego kartohkua panetto",
-    "sentence_rus": "viego kartohkua panetto"
-}
-{
-    "phrase_id": "0147",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1125.4357518",
     "time_end": "1131.5282518",
     "sentence": "a rahvastu äijygo vot nämis hierulois kaikkiedah vot poseleinies on rahvastu eläjiä da i hieruloisgi",
     "sentence_rus": "a rahvastu äijygo <vot>rus nämis hierulois kaikkiedah <vot>rus poseleinies on rahvastu eläjiä da i hieruloisgi"
 }
 {
-    "phrase_id": "0148",
+    "phrase_id": "0142",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1172.5132518",
     "time_end": "1173.0207518",
@@ -1183,7 +1135,7 @@
     "sentence_rus": "<da>rus"
 }
 {
-    "phrase_id": "0149",
+    "phrase_id": "0143",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1209.3179668",
     "time_end": "1211.5607518",
@@ -1191,7 +1143,7 @@
     "sentence_rus": "a enne škola suuri onnuakko oli <da>rus"
 }
 {
-    "phrase_id": "0150",
+    "phrase_id": "0144",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1242.2507518",
     "time_end": "1246.3882518",
@@ -1199,7 +1151,7 @@
     "sentence_rus": "nu sanotto <što>rus kezäkse tullah i moskovas i piiterispäi eläjät"
 }
 {
-    "phrase_id": "0151",
+    "phrase_id": "0145",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1246.7157518",
     "time_end": "1247.6118614",
@@ -1207,7 +1159,7 @@
     "sentence_rus": "se huogavutah"
 }
 {
-    "phrase_id": "0152",
+    "phrase_id": "0146",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1247.6118614",
     "time_end": "1251.3382518",
@@ -1215,7 +1167,7 @@
     "sentence_rus": "a midäbo <vot>rus kuduat alalleh ainos eletäh hierulois midä ruatah"
 }
 {
-    "phrase_id": "0153",
+    "phrase_id": "0147",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1361.4716620",
     "time_end": "1362.1118216",
@@ -1223,7 +1175,7 @@
     "sentence_rus": "nelli vuottu"
 }
 {
-    "phrase_id": "0154",
+    "phrase_id": "0148",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1741.4656612",
     "time_end": "1743.7006612",
@@ -1231,7 +1183,7 @@
     "sentence_rus": "a viego rahvas lehmäh niškoi niitetäh"
 }
 {
-    "phrase_id": "0155",
+    "phrase_id": "0149",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1779.9381612",
     "time_end": "1781.5856612",
@@ -1239,7 +1191,7 @@
     "sentence_rus": "suuret ruavot muga muga"
 }
 {
-    "phrase_id": "0156",
+    "phrase_id": "0150",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1781.5856612",
     "time_end": "1786.4167079",
@@ -1247,7 +1199,7 @@
     "sentence_rus": "muite työ puaksuh vastavutto rahvahanke pagižetto midä heidy huolestuttau"
 }
 {
-    "phrase_id": "0157",
+    "phrase_id": "0151",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1786.4167079",
     "time_end": "1787.7706612",
@@ -1255,7 +1207,7 @@
     "sentence_rus": "midä hyö tahtottaš"
 }
 {
-    "phrase_id": "0158",
+    "phrase_id": "0152",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1818.8684883",
     "time_end": "1819.3787600",
@@ -1263,7 +1215,7 @@
     "sentence_rus": "problemu"
 }
 {
-    "phrase_id": "0159",
+    "phrase_id": "0153",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1851.3981612",
     "time_end": "1853.6256612",
@@ -1271,7 +1223,7 @@
     "sentence_rus": "pidäy ruadua kaikin yhtes"
 }
 {
-    "phrase_id": "0160",
+    "phrase_id": "0154",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1875.0033675",
     "time_end": "1876.7514434",
@@ -1279,10 +1231,58 @@
     "sentence_rus": "passibo teile suuri paginas"
 }
 {
-    "phrase_id": "0161",
+    "phrase_id": "0155",
     "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
     "time_start": "1883.0831612",
     "time_end": "1884.4171724",
     "sentence": "midä taivottažitto",
     "sentence_rus": "midä taivottažitto"
+}
+{
+    "phrase_id": "0156",
+    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+    "time_start": "618.9412239",
+    "time_end": "622.5840000",
+    "sentence": "svetlana mihailovna kuibo elittö enne konzu tuldu euluh",
+    "sentence_rus": "<svetlana mihailovna>rus kuibo elittö enne konzu tuldu euluh"
+}
+{
+    "phrase_id": "0157",
+    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+    "time_start": "755.6523709",
+    "time_end": "762.5158364",
+    "sentence": "kuni minä olen hengis sanou svetlana mihailovna čuprova omua mägrätjärvie nikonzu en hylgiä",
+    "sentence_rus": "kuni minä olen hengis sanou <svetlana mihailovna čuprova>rus omua mägrätjärvie nikonzu en hylgiä"
+}
+{
+    "phrase_id": "0158",
+    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+    "time_start": "762.7658113",
+    "time_end": "767.4411405",
+    "sentence": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah",
+    "sentence_rus": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah"
+}
+{
+    "phrase_id": "0159",
+    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+    "time_start": "829.3365000",
+    "time_end": "833.6766886",
+    "sentence": "svetlana mihailovna midäbo vot vie himoittaš omah hiruh niškoi azuo",
+    "sentence_rus": "<svetlana mihailovna>rus midäbo <vot>rus vie himoittaš omah hiruh niškoi azuo"
+}
+{
+    "phrase_id": "0160",
+    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+    "time_start": "860.2665000",
+    "time_end": "862.7726561",
+    "sentence": "a vetty kuspäi kaivospäi otatto da kodih",
+    "sentence_rus": "a vetty kuspäi kaivospäi otatto <da>rus kodih"
+}
+{
+    "phrase_id": "0161",
+    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+    "time_start": "1000.0349761",
+    "time_end": "1001.7177809",
+    "sentence": "viego kartohkua panetto",
+    "sentence_rus": "viego kartohkua panetto"
 }
