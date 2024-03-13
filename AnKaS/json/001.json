@@ -1,1288 +1,1453 @@
 {
-    "phrase_id": "0001",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "111.4619720",
-    "time_end": "112.7319720",
-    "sentence": "a mittumat mužikat",
-    "sentence_rus": "a mittumat mužikat"
-}
-{
-    "phrase_id": "0002",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "112.7319720",
-    "time_end": "113.3644720",
-    "sentence": "tuttavat",
-    "sentence_rus": "tuttavat"
-}
-{
-    "phrase_id": "0003",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "171.9768166",
-    "time_end": "173.6744720",
-    "sentence": "no täs on meččypos'olku da",
-    "sentence_rus": "no täs on meččypos'olku <da>rus"
-}
-{
-    "phrase_id": "0004",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "174.0744720",
-    "time_end": "175.5619720",
-    "sentence": "sit kai moižet nerokkahat oldih",
-    "sentence_rus": "sit kai moižet nerokkahat oldih"
-}
-{
-    "phrase_id": "0005",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "210.1419720",
-    "time_end": "212.8945350",
-    "sentence": "aha äijängo vuottu jo sidä ruaduo ruatto",
-    "sentence_rus": "<aha>rus äijängo vuottu jo sidä ruaduo ruatto"
-}
-{
-    "phrase_id": "0006",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "212.8945350",
-    "time_end": "216.3894720",
-    "sentence": "onnuakko pahuos pienyössäh kirves käis pyzyy",
-    "sentence_rus": "onnuakko pahuos pienyössäh kirves käis pyzyy"
-}
-{
-    "phrase_id": "0007",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "233.8919720",
-    "time_end": "235.5219863",
-    "sentence": "a konzubo rubeitto azumah",
-    "sentence_rus": "a konzubo rubeitto azumah"
-}
-{
-    "phrase_id": "0008",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "238.3527203",
-    "time_end": "240.3667784",
-    "sentence": "oman koingi srojiitto",
-    "sentence_rus": "oman koingi srojiitto"
-}
-{
-    "phrase_id": "0009",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "268.7928338",
-    "time_end": "277.8819720",
-    "sentence": "toine elaigu no työ oletto moločču sendäh gu nygöi on ylen vähä moštu ristikanzua ket maltetah vot nenga nerokkahasti käzil ruadua",
-    "sentence_rus": "toine elaigu <no>rus työ oletto moločču sendäh gu nygöi on ylen vähä moštu ristikanzua ket maltetah <vot>rus nenga nerokkahasti käzil ruadua"
-}
-{
-    "phrase_id": "0010",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "329.4994720",
-    "time_end": "338.1919720",
-    "sentence": "aleksandr petrovič ongo teile moine ruadopertiine masterskoi kui sanotah ruadopaja da kus ollah kai nämmä ruadobrujat piettö puut",
-    "sentence_rus": "<aleksandr petrovič>rus ongo teile moine ruadopertiine masterskoi kui sanotah ruadopaja <da>rus kus ollah kai nämmä ruadobrujat piettö puut"
-}
-{
-    "phrase_id": "0011",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "338.1919720",
-    "time_end": "338.9635177",
-    "sentence": "kusbo ruatto",
-    "sentence_rus": "kusbo ruatto"
-}
-{
-    "phrase_id": "0012",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "338.9635177",
-    "time_end": "341.6994720",
-    "sentence": "pidäyhäi mužikal olla oma kohtu pihas",
-    "sentence_rus": "pidäyhäi mužikal olla oma kohtu pihas"
-}
-{
-    "phrase_id": "0013",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "351.0819720",
-    "time_end": "355.1994720",
-    "sentence": "midä pidäy tiediä kirvesmiehel gu nostua hyvä kodi",
-    "sentence_rus": "midä pidäy tiediä kirvesmiehel gu nostua hyvä kodi"
-}
-{
-    "phrase_id": "0014",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "355.1994720",
-    "time_end": "356.7169720",
-    "sentence": "midä pidäy maltua",
-    "sentence_rus": "midä pidäy maltua"
-}
-{
-    "phrase_id": "0015",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "443.5944720",
-    "time_end": "446.0244720",
-    "sentence": "oli died'oigi nerokas da teijän",
-    "sentence_rus": "oli died'oigi nerokas <da>rus teijän"
-}
-{
-    "phrase_id": "0016",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "446.8650416",
-    "time_end": "448.1919720",
-    "sentence": "a mibo nimi oli died'oil",
-    "sentence_rus": "a mibo nimi oli died'oil"
-}
-{
-    "phrase_id": "0017",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "451.1719720",
-    "time_end": "455.7644720",
-    "sentence": "a maltoitto vot kui died'oi nämii kaššaliloi komšuloi azuo da viršiloi",
-    "sentence_rus": "a maltoitto <vot>rus kui died'oi nämii kaššaliloi komšuloi azuo da viršiloi"
-}
-{
-    "phrase_id": "0018",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "590.8269720",
-    "time_end": "592.9469720",
-    "sentence": "oligo se jygei ruado",
-    "sentence_rus": "oligo se jygei ruado"
-}
-{
-    "phrase_id": "0019",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "605.0894720",
-    "time_end": "608.9344720",
-    "sentence": "sit konzu salvattih sit tulitto tänne vern'oile da vai kui",
-    "sentence_rus": "sit konzu salvattih sit tulitto tänne vern'oile <da>rus vai kui"
-}
-{
-    "phrase_id": "0020",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "628.6767657",
-    "time_end": "630.7112919",
-    "sentence": "teijän mučoi karjalaine on",
-    "sentence_rus": "teijän mučoi karjalaine on"
-}
-{
-    "phrase_id": "0021",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "635.1339740",
-    "time_end": "636.4364740",
-    "sentence": "valentina mihailovna",
-    "sentence_rus": "<valentina mihailovna>rus"
-}
-{
-    "phrase_id": "0022",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "638.8564740",
-    "time_end": "640.2539740",
-    "sentence": "a kenenny ruadoi zavodal",
-    "sentence_rus": "a kenenny ruadoi zavodal"
-}
-{
-    "phrase_id": "0023",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "672.2889740",
-    "time_end": "674.7939740",
-    "sentence": "äijängo vuottu yhtes jo oletto elättö",
-    "sentence_rus": "äijängo vuottu yhtes jo oletto elättö"
-}
-{
-    "phrase_id": "0024",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "676.3064740",
-    "time_end": "677.8439740",
-    "sentence": "nellikymmenviizi",
-    "sentence_rus": "nellikymmenviizi"
-}
-{
-    "phrase_id": "0025",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "677.8439740",
-    "time_end": "681.9939740",
-    "sentence": "häi vot teidy täs dielos kirvesmiehen ruavos kannattaugo teidy",
-    "sentence_rus": "häi <vot>rus teidy täs dielos kirvesmiehen ruavos kannattaugo teidy"
-}
-{
-    "phrase_id": "0026",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "696.3664740",
-    "time_end": "699.4635385",
-    "sentence": "häi teidy ainos täs ruavos kui sanuo podderživaiči",
-    "sentence_rus": "häi teidy ainos täs ruavos kui sanuo podderživaiči"
-}
-{
-    "phrase_id": "0027",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "793.0865369",
-    "time_end": "794.7410000",
-    "sentence": "sammaldu da tuohtu pandih",
-    "sentence_rus": "sammaldu da tuohtu pandih"
-}
-{
-    "phrase_id": "0028",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "795.3485000",
-    "time_end": "800.5460000",
-    "sentence": "no sit mittuinebo puu parahite pädöy koin nostamižeh kylyn nostamižeh",
-    "sentence_rus": "<no>rus sit mittuinebo puu parahite pädöy koin nostamižeh kylyn nostamižeh"
-}
-{
-    "phrase_id": "0029",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "804.6210000",
-    "time_end": "806.3273313",
-    "sentence": "kusbo otatto puuloi",
-    "sentence_rus": "kusbo otatto puuloi"
-}
-{
-    "phrase_id": "0030",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "813.2635000",
-    "time_end": "813.4960000",
-    "sentence": "da",
-    "sentence_rus": "<da>rus"
-}
-{
-    "phrase_id": "0031",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "819.3368365",
-    "time_end": "820.9185000",
-    "sentence": "no teile valmehekse tuvvah",
-    "sentence_rus": "no teile valmehekse tuvvah"
-}
-{
-    "phrase_id": "0032",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "824.3160000",
-    "time_end": "828.7848975",
-    "sentence": "eihäi kaikkii puuloi otettu salvokseh mih kačottih",
-    "sentence_rus": "eihäi kaikkii puuloi otettu salvokseh mih kačottih"
-}
-{
-    "phrase_id": "0033",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "850.1385000",
-    "time_end": "851.7310000",
-    "sentence": "puu tuodi da",
-    "sentence_rus": "puu tuodi <da>rus"
-}
-{
-    "phrase_id": "0034",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "867.8935000",
-    "time_end": "871.5310000",
-    "sentence": "sit vestittö kuibo vot keriättö sidä salvostu",
-    "sentence_rus": "sit vestittö kuibo <vot>rus keriättö sidä salvostu"
-}
-{
-    "phrase_id": "0035",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "881.3285000",
-    "time_end": "882.1760000",
-    "sentence": "kirjutatto da",
-    "sentence_rus": "kirjutatto <da>rus"
-}
-{
-    "phrase_id": "0036",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "887.1485000",
-    "time_end": "888.8860000",
-    "sentence": "hyö iče kai kerätäh sie da",
-    "sentence_rus": "hyö iče kai kerätäh sie <da>rus"
-}
-{
-    "phrase_id": "0037",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "913.8835000",
-    "time_end": "915.1908544",
-    "sentence": "vägitukku pidäy",
-    "sentence_rus": "vägitukku pidäy"
-}
-{
-    "phrase_id": "0038",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "915.1908544",
-    "time_end": "918.2876734",
-    "sentence": "sit onnuakko aijoi huondeksel nouzetto joga päiviä",
-    "sentence_rus": "sit onnuakko aijoi huondeksel nouzetto joga päiviä"
-}
-{
-    "phrase_id": "0039",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "924.8783919",
-    "time_end": "928.3385000",
-    "sentence": "no nämmä puut ettohäi kuivua kerras",
-    "sentence_rus": "<no>rus nämmä puut ettohäi kuivua kerras"
-}
-{
-    "phrase_id": "0040",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "949.4785000",
-    "time_end": "951.6560000",
-    "sentence": "sammaldu pandihgo alustakse",
-    "sentence_rus": "sammaldu pandihgo alustakse"
-}
-{
-    "phrase_id": "0041",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "964.8385000",
-    "time_end": "967.5154282",
-    "sentence": "no sammaldu pandih štob lat'e ei happaniš da",
-    "sentence_rus": "no sammaldu pandih <štob>rus lat'e ei happaniš <da>rus"
-}
-{
-    "phrase_id": "0042",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "970.2935000",
-    "time_end": "972.0160000",
-    "sentence": "a levo konzu nostettih jo",
-    "sentence_rus": "a levo konzu nostettih jo"
-}
-{
-    "phrase_id": "0043",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1001.0960000",
-    "time_end": "1003.4010000",
-    "sentence": "no enne kodiloil äijygo venčua oli",
-    "sentence_rus": "no enne kodiloil äijygo venčua oli"
-}
-{
-    "phrase_id": "0044",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1005.3460000",
-    "time_end": "1008.3185000",
-    "sentence": "aiga suuret koit oldih no sie vie tahnuot",
-    "sentence_rus": "aiga suuret koit oldih <no>rus sie vie tahnuot"
-}
-{
-    "phrase_id": "0045",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1008.9796442",
-    "time_end": "1011.6260000",
-    "sentence": "huonukset tahtuot kai oldihhäi yhten levon al",
-    "sentence_rus": "huonukset tahtuot kai oldihhäi yhten levon al"
-}
-{
-    "phrase_id": "0046",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1031.2960000",
-    "time_end": "1033.8544895",
-    "sentence": "a mindäh vot huabaine puu pädöy",
-    "sentence_rus": "a mindäh <vot>rus huabaine puu pädöy"
-}
-{
-    "phrase_id": "0047",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1055.8910000",
-    "time_end": "1057.3760000",
-    "sentence": "a levo on kui uuzi",
-    "sentence_rus": "a levo on kui uuzi"
-}
-{
-    "phrase_id": "0048",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1076.7435000",
-    "time_end": "1079.4164130",
-    "sentence": "a lahkokse sežo pedäi pädöy",
-    "sentence_rus": "a lahkokse sežo pedäi pädöy"
-}
-{
-    "phrase_id": "0049",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1117.0635000",
-    "time_end": "1118.8735000",
-    "sentence": "olgie da olgiposteli",
-    "sentence_rus": "olgie <da>rus olgiposteli"
-}
-{
-    "phrase_id": "0050",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1147.0435000",
-    "time_end": "1150.4160000",
-    "sentence": "da nu aleksandr petrovič vot vie tahtoin kyzyö ikkunois",
-    "sentence_rus": "<da nu aleksandr petrovič>rus <vot>rus vie tahtoin kyzyö ikkunois"
-}
-{
-    "phrase_id": "0051",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1179.8593722",
-    "time_end": "1180.8950565",
-    "sentence": "a kynnykset",
-    "sentence_rus": "a kynnykset"
-}
-{
-    "phrase_id": "0052",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1180.8950565",
-    "time_end": "1182.1067663",
-    "sentence": "mittumat kynnykset",
-    "sentence_rus": "mittumat kynnykset"
-}
-{
-    "phrase_id": "0053",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1182.1067663",
-    "time_end": "1183.8435000",
-    "sentence": "kus pideli olla nämmä kynnykset",
-    "sentence_rus": "kus pideli olla nämmä kynnykset"
-}
-{
-    "phrase_id": "0054",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1183.8435000",
-    "time_end": "1184.9035000",
-    "sentence": "kunne azuttih",
-    "sentence_rus": "kunne azuttih"
-}
-{
-    "phrase_id": "0055",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1307.2690134",
-    "time_end": "1309.5102671",
-    "sentence": "pidäy maltua konešno luadie",
-    "sentence_rus": "pidäy maltua <konešno>rus luadie"
-}
-{
-    "phrase_id": "0056",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1363.9901286",
-    "time_end": "1366.3091610",
-    "sentence": "pideli olla erinomažet moižet terävät",
-    "sentence_rus": "pideli olla erinomažet moižet terävät"
-}
-{
-    "phrase_id": "0057",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1385.2564532",
-    "time_end": "1389.8128288",
-    "sentence": "no teile oma kirves onnuakko jäi naverno diedöispäi libo kenespäi",
-    "sentence_rus": "no teile oma kirves onnuakko jäi <naverno>rus diedöispäi <libo>rus kenespäi"
-}
-{
-    "phrase_id": "0058",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1397.0317338",
-    "time_end": "1402.4701000",
-    "sentence": "ei suannuh da enne andua vierahale oman kirvehen se moine primietty oli da onnuakko",
-    "sentence_rus": "ei suannuh <da>rus enne andua vierahale oman kirvehen se moine primietty oli <da>rus onnuakko"
-}
-{
-    "phrase_id": "0059",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1407.0631349",
-    "time_end": "1410.9152256",
-    "sentence": "aleksandr petrovič a midä vot mieldy oletto mittuine nygöi meččy on",
-    "sentence_rus": "<aleksandr petrovič>rus a midä <vot>rus mieldy oletto mittuine nygöi meččy on"
-}
-{
-    "phrase_id": "0060",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1410.9152256",
-    "time_end": "1415.7047539",
-    "sentence": "nygöi meččiä čällätäh kaikkeh luaduh pilatah sit lykitäh",
-    "sentence_rus": "nygöi meččiä čällätäh kaikkeh luaduh pilatah sit lykitäh"
-}
-{
-    "phrase_id": "0061",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1415.7047539",
-    "time_end": "1417.1505993",
-    "sentence": "nämmä kannot jätetäh",
-    "sentence_rus": "nämmä kannot jätetäh"
-}
-{
-    "phrase_id": "0062",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1417.1505993",
-    "time_end": "1418.8655993",
-    "sentence": "mittuine vot nygöi vot meččy",
-    "sentence_rus": "mittuine <vot>rus nygöi <vot>rus meččy"
-}
-{
-    "phrase_id": "0063",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1418.8655993",
-    "time_end": "1422.1255993",
-    "sentence": "ongo hyvä meččy gu työ nämii puuloi kuoritatto",
-    "sentence_rus": "ongo hyvä meččy gu työ nämii puuloi kuoritatto"
-}
-{
-    "phrase_id": "0064",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1455.5880993",
-    "time_end": "1458.0880993",
-    "sentence": "no nygöi meččiä ei ni ištuteta putilleh",
-    "sentence_rus": "no nygöi meččiä ei ni ištuteta putilleh"
-}
-{
-    "phrase_id": "0065",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1482.1205993",
-    "time_end": "1485.1105993",
-    "sentence": "da kazvau se vai ei kazva nikelle dieluo eulo sit",
-    "sentence_rus": "<da>rus kazvau se vai ei kazva nikelle dieluo eulo sit"
-}
-{
-    "phrase_id": "0066",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1587.7026339",
-    "time_end": "1590.4734153",
-    "sentence": "no nygöi kai järvet ligahižet da jovet",
-    "sentence_rus": "no nygöi kai järvet ligahižet da jovet"
-}
-{
-    "phrase_id": "0067",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1604.7724089",
-    "time_end": "1605.6726339",
-    "sentence": "sinne kävyttö",
-    "sentence_rus": "sinne kävyttö"
-}
-{
-    "phrase_id": "0068",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1615.2826339",
-    "time_end": "1616.5401339",
-    "sentence": "ongiruagal da",
-    "sentence_rus": "ongiruagal <da>rus"
-}
-{
-    "phrase_id": "0069",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1622.0474598",
-    "time_end": "1624.8001339",
-    "sentence": "kunnebo kalat kuivatto vai maimakse vai",
-    "sentence_rus": "kunnebo kalat kuivatto vai maimakse vai"
-}
-{
-    "phrase_id": "0070",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1642.5926339",
-    "time_end": "1643.7351339",
-    "sentence": "kartohkua kazvau",
-    "sentence_rus": "kartohkua kazvau"
-}
-{
-    "phrase_id": "0071",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1643.7351339",
-    "time_end": "1645.0451339",
-    "sentence": "suuri peldo teile on tiä",
-    "sentence_rus": "suuri peldo teile on tiä"
-}
-{
-    "phrase_id": "0072",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1651.0326339",
-    "time_end": "1652.4793861",
-    "sentence": "avvutetahgo teile",
-    "sentence_rus": "avvutetahgo teile"
-}
-{
-    "phrase_id": "0073",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1667.5826339",
-    "time_end": "1669.3076339",
-    "sentence": "ollahgo suuret bunukat",
-    "sentence_rus": "ollahgo suuret bunukat"
-}
-{
-    "phrase_id": "0074",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1676.0751339",
-    "time_end": "1678.2326339",
-    "sentence": "a kävyittögo meččah jo tänävuon",
-    "sentence_rus": "a kävyittögo meččah jo tänävuon"
-}
-{
-    "phrase_id": "0075",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1706.5376339",
-    "time_end": "1708.7126339",
-    "sentence": "a talvet kui mennäh talvet",
-    "sentence_rus": "a talvet kui mennäh talvet"
-}
-{
-    "phrase_id": "0076",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1708.7126339",
-    "time_end": "1713.3451339",
-    "sentence": "no työ kävyttö kalastamah da järvele midä vie ruatto talvel",
-    "sentence_rus": "no työ kävyttö kalastamah <da>rus järvele midä vie ruatto talvel"
-}
-{
-    "phrase_id": "0077",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1751.1876339",
-    "time_end": "1753.1226339",
-    "sentence": "a viego mečtättö etto",
-    "sentence_rus": "a viego mečtättö etto"
-}
-{
-    "phrase_id": "0078",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1758.8701339",
-    "time_end": "1761.3576339",
-    "sentence": "da a kuibo sit kondies piäzittö",
-    "sentence_rus": "<da>rus a kuibo sit kondies piäzittö"
-}
-{
-    "phrase_id": "0079",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1828.4826339",
-    "time_end": "1830.3776339",
-    "sentence": "a vot midäbo vot karjalazet sanottih",
-    "sentence_rus": "a <vot>rus midäbo <vot>rus karjalazet sanottih"
-}
-{
-    "phrase_id": "0080",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1830.3776339",
-    "time_end": "1832.8551339",
-    "sentence": "vot konzu kondiedu näit midä pidäy ruadua",
-    "sentence_rus": "<vot>rus konzu kondiedu näit midä pidäy ruadua"
-}
-{
-    "phrase_id": "0081",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1856.3976339",
-    "time_end": "1859.6510488",
-    "sentence": "sanotahhäi kondii gu mečänižändy on da",
-    "sentence_rus": "sanotahhäi kondii gu mečänižändy on <da>rus"
-}
-{
-    "phrase_id": "0082",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1866.6654563",
-    "time_end": "1867.8612734",
-    "sentence": "kuibo nygöi elos",
-    "sentence_rus": "kuibo nygöi elos"
-}
-{
-    "phrase_id": "0083",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1875.0187734",
-    "time_end": "1876.7887734",
-    "sentence": "penzii tulougo aigoinah",
-    "sentence_rus": "penzii tulougo aigoinah"
-}
-{
-    "phrase_id": "0084",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1886.2162734",
-    "time_end": "1888.5537734",
-    "sentence": "teile on tiä kaksi laukkua da",
-    "sentence_rus": "teile on tiä kaksi laukkua <da>rus"
-}
-{
-    "phrase_id": "0085",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1888.5537734",
-    "time_end": "1890.3637734",
-    "sentence": "avtalavku ei kävy tänne sit",
-    "sentence_rus": "avtalavku ei kävy tänne sit"
-}
-{
-    "phrase_id": "0086",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1907.8562734",
-    "time_end": "1911.4312734",
-    "sentence": "no tiä naverno kallehel hinnal laukas myvväh da syömižii",
-    "sentence_rus": "no tiä <naverno>rus kallehel hinnal laukas myvväh <da>rus syömižii"
-}
-{
-    "phrase_id": "0087",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1912.0861501",
-    "time_end": "1914.2987734",
-    "sentence": "työ täs ostatto vai linnah ajeletto",
-    "sentence_rus": "työ täs ostatto vai linnah ajeletto"
-}
-{
-    "phrase_id": "0088",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1914.2987734",
-    "time_end": "1915.9689430",
-    "sentence": "vai kus ostatto syömižii",
-    "sentence_rus": "vai kus ostatto syömižii"
-}
-{
-    "phrase_id": "0089",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1925.3387734",
-    "time_end": "1925.7812734",
-    "sentence": "da",
-    "sentence_rus": "da"
-}
-{
-    "phrase_id": "0090",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1939.2487734",
-    "time_end": "1942.4287734",
-    "sentence": "no täs avtoubussu nygöi vie pidäy puuttuo maltua",
-    "sentence_rus": "no täs avtoubussu nygöi vie pidäy puuttuo maltua"
-}
-{
-    "phrase_id": "0091",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1944.3487734",
-    "time_end": "1948.2037734",
-    "sentence": "no muite täs verhn'oil hierus kudakui on",
-    "sentence_rus": "no muite täs verhn'oil hierus kudakui on"
-}
-{
-    "phrase_id": "0092",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1948.2037734",
-    "time_end": "1949.2237734",
-    "sentence": "suaugo eliä",
-    "sentence_rus": "suaugo eliä"
-}
-{
-    "phrase_id": "0093",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1962.9087734",
-    "time_end": "1965.2662734",
-    "sentence": "talvel vähä rahvastu da tiä eläy",
-    "sentence_rus": "talvel vähä rahvastu <da>rus tiä eläy"
-}
-{
-    "phrase_id": "0094",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1990.1145261",
-    "time_end": "1991.7487734",
-    "sentence": "lapset kazvatitto",
-    "sentence_rus": "lapset kazvatitto"
-}
-{
-    "phrase_id": "0095",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "1999.5073233",
-    "time_end": "2003.8987734",
-    "sentence": "midäbo vie himoitaš elokses no sanommo ruadua midätahto",
-    "sentence_rus": "midäbo vie himoitaš elokses <no>rus sanommo ruadua midätahto"
-}
-{
-    "phrase_id": "0096",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2013.3612734",
-    "time_end": "2014.5337734",
-    "sentence": "ruaduo on",
-    "sentence_rus": "ruaduo on"
-}
-{
-    "phrase_id": "0097",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2053.7837734",
-    "time_end": "2056.5062734",
-    "sentence": "a tiä vern'oile suauhäi kuulta karjalua",
-    "sentence_rus": "a tiä vern'oile suauhäi kuulta karjalua"
-}
-{
-    "phrase_id": "0098",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2072.4287734",
-    "time_end": "2073.4087734",
-    "sentence": "venäkse kyzyy",
-    "sentence_rus": "venäkse kyzyy"
-}
-{
-    "phrase_id": "0099",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2081.0787734",
-    "time_end": "2084.5937734",
-    "sentence": "työ omien kažinke da koiranke pagižetto karjalakse mugahäi",
-    "sentence_rus": "työ omien kažinke da koiranke pagižetto karjalakse mugahäi"
-}
-{
-    "phrase_id": "0100",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2098.0562734",
-    "time_end": "2098.7087734",
-    "sentence": "oi moločču",
-    "sentence_rus": "oi moločču"
-}
-{
-    "phrase_id": "0101",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2098.7087734",
-    "time_end": "2100.5712734",
-    "sentence": "a karjalažet nimet ollah",
-    "sentence_rus": "a karjalažet nimet ollah"
-}
-{
-    "phrase_id": "0102",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2101.2412734",
-    "time_end": "2102.0162734",
-    "sentence": "kissi",
-    "sentence_rus": "kissi"
-}
-{
-    "phrase_id": "0103",
-    "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
-    "time_start": "2106.6362734",
-    "time_end": "2107.5762734",
-    "sentence": "a koiral",
-    "sentence_rus": "a koiral"
-}
-{
-    "phrase_id": "0104",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "166.6180296",
-    "time_end": "169.8325040",
-    "sentence": "midä babaspäi mamaspäi on jiännyh teijän koiš",
-    "sentence_rus": "midä babaspäi mamaspäi on jiännyh teijän koiš"
-}
-{
-    "phrase_id": "0105",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "192.5219765",
-    "time_end": "194.2345521",
-    "sentence": "a vot päčin työ riičiittö da",
-    "sentence_rus": "a <vot>rus päčin työ riičiittö <da>rus"
-}
-{
-    "phrase_id": "0106",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "226.9818222",
-    "time_end": "232.1584257",
-    "sentence": "endižeh tabah srojittu kodi moižet leviet parret ollah lattiel",
-    "sentence_rus": "endižeh tabah srojittu kodi moižet leviet parret ollah lattiel"
-}
-{
-    "phrase_id": "0107",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "245.5378217",
-    "time_end": "247.9783258",
-    "sentence": "nygöi puudu moštu ei kazva onnuakko",
-    "sentence_rus": "nygöi puudu moštu ei kazva onnuakko"
-}
-{
-    "phrase_id": "0108",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "436.4349853",
-    "time_end": "439.5751675",
-    "sentence": "enne utjärves oli läs nelliäkymmendy taloidu",
-    "sentence_rus": "enne utjärves oli läs nelliäkymmendy taloidu"
-}
-{
-    "phrase_id": "0109",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "439.5751675",
-    "time_end": "443.0029228",
-    "sentence": "ičegi smietikkiä äijygo rahvastu sie eli",
-    "sentence_rus": "ičegi smietikkiä äijygo rahvastu sie eli"
-}
-{
-    "phrase_id": "0110",
-    "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
-    "time_start": "443.0029228",
-    "time_end": "449.2701254",
-    "sentence": "utjärvi oli kuulužu omil soittajil käziruadoloin muasteriloil da kalastajil",
-    "sentence_rus": "utjärvi oli kuulužu omil soittajil käziruadoloin muasteriloil da kalastajil"
-}
-{
-    "phrase_id": "0111",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "180.7823742",
-    "time_end": "187.0673742",
-    "sentence": "muga voinan alguu da komunnan elostu mustelou aleksandr vasiljevič šalgujev",
-    "sentence_rus": "muga voinan alguu da komunnan elostu mustelou <aleksandr vasiljevič šalgujev>rus"
-}
-{
-    "phrase_id": "0112",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "187.0673742",
-    "time_end": "192.9273742",
-    "sentence": "voinu koskiihes onnuakko joga perehty i teijängi perehes voinu jätti suuren jällen",
-    "sentence_rus": "voinu koskiihes onnuakko joga perehty i teijängi perehes voinu jätti suuren jällen"
-}
-{
-    "phrase_id": "0113",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "192.9273742",
-    "time_end": "196.4423742",
-    "sentence": "työ olitto onnukko pienenny lapsennu da konzu algavui voinu",
-    "sentence_rus": "työ olitto onnukko pienenny lapsennu <da>rus konzu algavui voinu"
-}
-{
-    "phrase_id": "0114",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "230.6748742",
-    "time_end": "232.8423742",
-    "sentence": "aleksandr vasiljevič vot keskustan prostikkua",
-    "sentence_rus": "<aleksandr vasiljevič vot>rus keskustan prostikkua"
-}
-{
-    "phrase_id": "0115",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "232.8423742",
-    "time_end": "234.5648742",
-    "sentence": "vot säde komunnu kusbo se oli",
-    "sentence_rus": "<vot>rus säde komunnu kusbo se oli"
-}
-{
-    "phrase_id": "0116",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "234.5648742",
-    "time_end": "235.8823742",
-    "sentence": "oligo tiä anukses",
-    "sentence_rus": "oligo tiä anukses"
-}
-{
-    "phrase_id": "0117",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "268.8398742",
-    "time_end": "269.5098742",
-    "sentence": "no tiijen",
-    "sentence_rus": "<no>rus tiijen"
-}
-{
-    "phrase_id": "0118",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "910.6670830",
-    "time_end": "912.4337107",
-    "sentence": "a midäbo akat ruattih",
-    "sentence_rus": "a midäbo akat ruattih"
-}
-{
-    "phrase_id": "0119",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "1111.5684026",
-    "time_end": "1114.0195830",
-    "sentence": "a gu počit oldih kunnebo liha sit meni",
-    "sentence_rus": "a gu počit oldih kunnebo liha sit meni"
-}
-{
-    "phrase_id": "0120",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "1133.8064666",
-    "time_end": "1134.7556522",
-    "sentence": "a talvel",
-    "sentence_rus": "a talvel"
-}
-{
-    "phrase_id": "0121",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "1620.6998823",
-    "time_end": "1625.3273091",
-    "sentence": "no vot erähät suomelažii moititah no yksikai syvvä oli da ruaduo oli",
-    "sentence_rus": "<no vot>rus erähät suomelažii moititah no yksikai syvvä oli da ruaduo oli"
-}
-{
-    "phrase_id": "0122",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "1685.8750961",
-    "time_end": "1687.5969127",
-    "sentence": "a oligo teijän tata voinal",
-    "sentence_rus": "a oligo teijän tata voinal"
-}
-{
-    "phrase_id": "0123",
-    "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
-    "time_start": "1817.7069127",
-    "time_end": "1818.8169127",
-    "sentence": "pietähgo čestis",
-    "sentence_rus": "pietähgo čestis"
-}
-{
-    "phrase_id": "0124",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1135.5371435",
-    "time_end": "1141.1442016",
-    "sentence": "aleksandr svirskoin manasterin elaigu ei äijäl erovunnuh toižis manasterilois",
-    "sentence_rus": "<aleksandr>rus svirskoin manasterin elaigu ei äijäl erovunnuh toižis manasterilois"
-}
-{
-    "phrase_id": "0125",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1141.5604793",
-    "time_end": "1146.5075849",
-    "sentence": "kaikkie tuli kestiä manasteril voinat kiškondat tulipalot",
-    "sentence_rus": "kaikkie tuli kestiä manasteril voinat kiškondat tulipalot"
-}
-{
-    "phrase_id": "0126",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1146.7195312",
-    "time_end": "1155.5108602",
-    "sentence": "toiči se oli hävitetty muanpindassah ga jumalan avul da manuahoin raden'n'al da malittuloil manasteri elavui uvvessah",
-    "sentence_rus": "toiči se oli hävitetty muanpindassah ga jumalan avul da manuahoin raden'n'al da malittuloil manasteri elavui uvvessah"
-}
-{
-    "phrase_id": "0127",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1155.9322145",
-    "time_end": "1161.2537162",
-    "sentence": "enne suurdu revol'uciedu kudai sytyi vuvvennu tuhat yheksäsadua kaheksatoštu",
-    "sentence_rus": "enne suurdu revol'uciedu kudai sytyi vuvvennu tuhat yheksäsadua kaheksatoštu"
-}
-{
-    "phrase_id": "0128",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1161.4529711",
-    "time_end": "1166.0125000",
-    "sentence": "aleksandr svirskoin manasteris eli enämbi kahtusadua manuahua",
-    "sentence_rus": "<aleksandr>rus svirskoin manasteris eli enämbi kahtusadua manuahua"
-}
-{
-    "phrase_id": "0129",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1166.0125000",
-    "time_end": "1169.3965149",
-    "sentence": "oli piäle nelliäkymmendy hebuo da sada lehmiä",
-    "sentence_rus": "oli piäle nelliäkymmendy hebuo da sada lehmiä"
-}
-{
-    "phrase_id": "0130",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1169.6465354",
-    "time_end": "1178.2436861",
-    "sentence": "manasterin vellestö ruadoi muadu kazvatti vil'l'ua ouvoššiloi da avvutti lähi hieruloin eläjii da orbolapsii",
-    "sentence_rus": "manasterin vellestö ruadoi muadu kazvatti vil'l'ua ouvoššiloi da avvutti lähi hieruloin eläjii da orbolapsii"
-}
-{
-    "phrase_id": "0131",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1178.5432030",
-    "time_end": "1181.3454629",
-    "sentence": "ga rauhan eloksen keskusti voinu",
-    "sentence_rus": "ga rauhan eloksen keskusti voinu"
-}
-{
-    "phrase_id": "0132",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1562.3915000",
-    "time_end": "1566.0315000",
-    "sentence": "a nikolai petrovič a tiijettogo säilyigo vahnua obrazua",
-    "sentence_rus": "a <nikolai petrovič>rus a tiijettogo säilyigo vahnua obrazua"
-}
-{
-    "phrase_id": "0133",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1645.1524763",
-    "time_end": "1652.5172925",
-    "sentence": "no pyhä aleksandruhäi avvutti äijil ristittyžil da midä myö tänäpäi tiijemmo hänen pyhädielolois",
-    "sentence_rus": "<no>rus pyhä aleksandruhäi avvutti äijil ristittyžil <da>rus midä myö tänäpäi tiijemmo hänen pyhädielolois"
-}
-{
-    "phrase_id": "0134",
-    "link": "https://tv-karelia.ru/118715-2/",
-    "time_start": "1839.0820614",
-    "time_end": "1842.7440000",
-    "sentence": "aha no nikolai petrovič jälgikerdua konzubo olitto manasteris",
-    "sentence_rus": "aha <no nikolai petrovič>rus jälgikerdua konzubo olitto manasteris"
-}
-{
-    "phrase_id": "0135",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "160.8090000",
-    "time_end": "167.9065000",
-    "sentence": "l'udmila aleksejevna vot sanelkua minul kuibo sai vot azuo moine hyvä dielo vediä tulet tänne sviettu vediä täh hieruh",
-    "sentence_rus": "<l'udmila aleksejevna>rus <vot>rus sanelkua minul kuibo sai <vot>rus azuo moine hyvä dielo vediä tulet tänne sviettu vediä täh hieruh"
-}
-{
-    "phrase_id": "0136",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "167.9065000",
-    "time_end": "169.9940000",
-    "sentence": "eihäi igänäh olluh täs tuldu",
-    "sentence_rus": "eihäi igänäh olluh täs tuldu"
-}
-{
-    "phrase_id": "0137",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "205.8715000",
-    "time_end": "208.0940000",
-    "sentence": "no tämä proektu da oli ved'",
-    "sentence_rus": "no tämä proektu <da>rus oli <ved'>rus"
-}
-{
-    "phrase_id": "0138",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "383.0745165",
-    "time_end": "385.5690000",
-    "sentence": "ičego eläjät vai valmehekse",
-    "sentence_rus": "ičego eläjät vai valmehekse"
-}
-{
-    "phrase_id": "0139",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "400.9390000",
-    "time_end": "403.8940000",
-    "sentence": "kui pitky on kolme kilometrii tämä liinii",
-    "sentence_rus": "kui pitky on kolme kilometrii tämä liinii"
-}
-{
-    "phrase_id": "0140",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "405.3394170",
-    "time_end": "405.6457884",
-    "sentence": "da",
-    "sentence_rus": "<da>rus"
-}
-{
-    "phrase_id": "0141",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1125.4357518",
-    "time_end": "1131.5282518",
-    "sentence": "a rahvastu äijygo vot nämis hierulois kaikkiedah vot poseleinies on rahvastu eläjiä da i hieruloisgi",
-    "sentence_rus": "a rahvastu äijygo <vot>rus nämis hierulois kaikkiedah <vot>rus poseleinies on rahvastu eläjiä da i hieruloisgi"
-}
-{
-    "phrase_id": "0142",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1172.5132518",
-    "time_end": "1173.0207518",
-    "sentence": "da",
-    "sentence_rus": "<da>rus"
-}
-{
-    "phrase_id": "0143",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1209.3179668",
-    "time_end": "1211.5607518",
-    "sentence": "a enne škola suuri onnuakko oli da",
-    "sentence_rus": "a enne škola suuri onnuakko oli <da>rus"
-}
-{
-    "phrase_id": "0144",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1242.2507518",
-    "time_end": "1246.3882518",
-    "sentence": "nu sanotto što kezäkse tullah i moskovas i piiterispäi eläjät",
-    "sentence_rus": "nu sanotto <što>rus kezäkse tullah i moskovas i piiterispäi eläjät"
-}
-{
-    "phrase_id": "0145",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1246.7157518",
-    "time_end": "1247.6118614",
-    "sentence": "se huogavutah",
-    "sentence_rus": "se huogavutah"
-}
-{
-    "phrase_id": "0146",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1247.6118614",
-    "time_end": "1251.3382518",
-    "sentence": "a midäbo vot kuduat alalleh ainos eletäh hierulois midä ruatah",
-    "sentence_rus": "a midäbo <vot>rus kuduat alalleh ainos eletäh hierulois midä ruatah"
-}
-{
-    "phrase_id": "0147",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1361.4716620",
-    "time_end": "1362.1118216",
-    "sentence": "nelli vuottu",
-    "sentence_rus": "nelli vuottu"
-}
-{
-    "phrase_id": "0148",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1741.4656612",
-    "time_end": "1743.7006612",
-    "sentence": "a viego rahvas lehmäh niškoi niitetäh",
-    "sentence_rus": "a viego rahvas lehmäh niškoi niitetäh"
-}
-{
-    "phrase_id": "0149",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1779.9381612",
-    "time_end": "1781.5856612",
-    "sentence": "suuret ruavot muga muga",
-    "sentence_rus": "suuret ruavot muga muga"
-}
-{
-    "phrase_id": "0150",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1781.5856612",
-    "time_end": "1786.4167079",
-    "sentence": "muite työ puaksuh vastavutto rahvahanke pagižetto midä heidy huolestuttau",
-    "sentence_rus": "muite työ puaksuh vastavutto rahvahanke pagižetto midä heidy huolestuttau"
-}
-{
-    "phrase_id": "0151",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1786.4167079",
-    "time_end": "1787.7706612",
-    "sentence": "midä hyö tahtottaš",
-    "sentence_rus": "midä hyö tahtottaš"
-}
-{
-    "phrase_id": "0152",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1818.8684883",
-    "time_end": "1819.3787600",
-    "sentence": "problemu",
-    "sentence_rus": "problemu"
-}
-{
-    "phrase_id": "0153",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1851.3981612",
-    "time_end": "1853.6256612",
-    "sentence": "pidäy ruadua kaikin yhtes",
-    "sentence_rus": "pidäy ruadua kaikin yhtes"
-}
-{
-    "phrase_id": "0154",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1875.0033675",
-    "time_end": "1876.7514434",
-    "sentence": "passibo teile suuri paginas",
-    "sentence_rus": "passibo teile suuri paginas"
-}
-{
-    "phrase_id": "0155",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1883.0831612",
-    "time_end": "1884.4171724",
-    "sentence": "midä taivottažitto",
-    "sentence_rus": "midä taivottažitto"
-}
-{
-    "phrase_id": "0156",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "618.9412239",
-    "time_end": "622.5840000",
-    "sentence": "svetlana mihailovna kuibo elittö enne konzu tuldu euluh",
-    "sentence_rus": "<svetlana mihailovna>rus kuibo elittö enne konzu tuldu euluh"
-}
-{
-    "phrase_id": "0157",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "755.6523709",
-    "time_end": "762.5158364",
-    "sentence": "kuni minä olen hengis sanou svetlana mihailovna čuprova omua mägrätjärvie nikonzu en hylgiä",
-    "sentence_rus": "kuni minä olen hengis sanou <svetlana mihailovna čuprova>rus omua mägrätjärvie nikonzu en hylgiä"
-}
-{
-    "phrase_id": "0158",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "762.7658113",
-    "time_end": "767.4411405",
-    "sentence": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah",
-    "sentence_rus": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah"
-}
-{
-    "phrase_id": "0159",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "829.3365000",
-    "time_end": "833.6766886",
-    "sentence": "svetlana mihailovna midäbo vot vie himoittaš omah hiruh niškoi azuo",
-    "sentence_rus": "<svetlana mihailovna>rus midäbo <vot>rus vie himoittaš omah hiruh niškoi azuo"
-}
-{
-    "phrase_id": "0160",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "860.2665000",
-    "time_end": "862.7726561",
-    "sentence": "a vetty kuspäi kaivospäi otatto da kodih",
-    "sentence_rus": "a vetty kuspäi kaivospäi otatto <da>rus kodih"
-}
-{
-    "phrase_id": "0161",
-    "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
-    "time_start": "1000.0349761",
-    "time_end": "1001.7177809",
-    "sentence": "viego kartohkua panetto",
-    "sentence_rus": "viego kartohkua panetto"
+    "phrases": [
+        {
+            "phrase_id": "0001",
+            "init_num": "0001",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "111.4619720",
+            "time_end": "112.7319720",
+            "sentence": "a mittumat mužikat",
+            "sentence_rus": "a mittumat mužikat"
+        },
+        {
+            "phrase_id": "0002",
+            "init_num": "0002",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "112.7319720",
+            "time_end": "113.3644720",
+            "sentence": "tuttavat",
+            "sentence_rus": "tuttavat"
+        },
+        {
+            "phrase_id": "0003",
+            "init_num": "0005",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "171.9768166",
+            "time_end": "173.6744720",
+            "sentence": "no täs on meččypos'olku da",
+            "sentence_rus": "no täs on meččypos'olku <da>rus"
+        },
+        {
+            "phrase_id": "0004",
+            "init_num": "0006",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "174.0744720",
+            "time_end": "175.5619720",
+            "sentence": "sit kai moižet nerokkahat oldih",
+            "sentence_rus": "sit kai moižet nerokkahat oldih"
+        },
+        {
+            "phrase_id": "0005",
+            "init_num": "0010",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "210.1419720",
+            "time_end": "212.8945350",
+            "sentence": "aha äijängo vuottu jo sidä ruaduo ruatto",
+            "sentence_rus": "<aha>rus äijängo vuottu jo sidä ruaduo ruatto"
+        },
+        {
+            "phrase_id": "0006",
+            "init_num": "0011",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "212.8945350",
+            "time_end": "216.3894720",
+            "sentence": "onnuakko pahuos pienyössäh kirves käis pyzyy",
+            "sentence_rus": "onnuakko pahuos pienyössäh kirves käis pyzyy"
+        },
+        {
+            "phrase_id": "0007",
+            "init_num": "0012",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "233.8919720",
+            "time_end": "235.5219863",
+            "sentence": "a konzubo rubeitto azumah",
+            "sentence_rus": "a konzubo rubeitto azumah"
+        },
+        {
+            "phrase_id": "0008",
+            "init_num": "0013",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "238.3527203",
+            "time_end": "240.3667784",
+            "sentence": "oman koingi srojiitto",
+            "sentence_rus": "oman koingi srojiitto"
+        },
+        {
+            "phrase_id": "0009",
+            "init_num": "0014",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "268.7928338",
+            "time_end": "277.8819720",
+            "sentence": "toine elaigu no työ oletto moločču sendäh gu nygöi on ylen vähä moštu ristikanzua ket maltetah vot nenga nerokkahasti käzil ruadua",
+            "sentence_rus": "toine elaigu <no>rus työ oletto moločču sendäh gu nygöi on ylen vähä moštu ristikanzua ket maltetah <vot>rus nenga nerokkahasti käzil ruadua"
+        },
+        {
+            "phrase_id": "0010",
+            "init_num": "0017",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "329.4994720",
+            "time_end": "338.1919720",
+            "sentence": "aleksandr petrovič ongo teile moine ruadopertiine masterskoi kui sanotah ruadopaja da kus ollah kai nämmä ruadobrujat piettö puut",
+            "sentence_rus": "<aleksandr petrovič>rus ongo teile moine ruadopertiine masterskoi kui sanotah ruadopaja <da>rus kus ollah kai nämmä ruadobrujat piettö puut"
+        },
+        {
+            "phrase_id": "0011",
+            "init_num": "0018",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "338.1919720",
+            "time_end": "338.9635177",
+            "sentence": "kusbo ruatto",
+            "sentence_rus": "kusbo ruatto"
+        },
+        {
+            "phrase_id": "0012",
+            "init_num": "0019",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "338.9635177",
+            "time_end": "341.6994720",
+            "sentence": "pidäyhäi mužikal olla oma kohtu pihas",
+            "sentence_rus": "pidäyhäi mužikal olla oma kohtu pihas"
+        },
+        {
+            "phrase_id": "0013",
+            "init_num": "0020",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "351.0819720",
+            "time_end": "355.1994720",
+            "sentence": "midä pidäy tiediä kirvesmiehel gu nostua hyvä kodi",
+            "sentence_rus": "midä pidäy tiediä kirvesmiehel gu nostua hyvä kodi"
+        },
+        {
+            "phrase_id": "0014",
+            "init_num": "0021",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "355.1994720",
+            "time_end": "356.7169720",
+            "sentence": "midä pidäy maltua",
+            "sentence_rus": "midä pidäy maltua"
+        },
+        {
+            "phrase_id": "0015",
+            "init_num": "0023",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "443.5944720",
+            "time_end": "446.0244720",
+            "sentence": "oli died'oigi nerokas da teijän",
+            "sentence_rus": "oli died'oigi nerokas <da>rus teijän"
+        },
+        {
+            "phrase_id": "0016",
+            "init_num": "0024",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "446.8650416",
+            "time_end": "448.1919720",
+            "sentence": "a mibo nimi oli died'oil",
+            "sentence_rus": "a mibo nimi oli died'oil"
+        },
+        {
+            "phrase_id": "0017",
+            "init_num": "0025",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "451.1719720",
+            "time_end": "455.7644720",
+            "sentence": "a maltoitto vot kui died'oi nämii kaššaliloi komšuloi azuo da viršiloi",
+            "sentence_rus": "a maltoitto <vot>rus kui died'oi nämii kaššaliloi komšuloi azuo da viršiloi"
+        },
+        {
+            "phrase_id": "0018",
+            "init_num": "0028",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "590.8269720",
+            "time_end": "592.9469720",
+            "sentence": "oligo se jygei ruado",
+            "sentence_rus": "oligo se jygei ruado"
+        },
+        {
+            "phrase_id": "0019",
+            "init_num": "0030",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "605.0894720",
+            "time_end": "608.9344720",
+            "sentence": "sit konzu salvattih sit tulitto tänne vern'oile da vai kui",
+            "sentence_rus": "sit konzu salvattih sit tulitto tänne vern'oile <da>rus vai kui"
+        },
+        {
+            "phrase_id": "0020",
+            "init_num": "0031",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "628.6767657",
+            "time_end": "630.7112919",
+            "sentence": "teijän mučoi karjalaine on",
+            "sentence_rus": "teijän mučoi karjalaine on"
+        },
+        {
+            "phrase_id": "0021",
+            "init_num": "0033",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "635.1339740",
+            "time_end": "636.4364740",
+            "sentence": "valentina mihailovna",
+            "sentence_rus": "<valentina mihailovna>rus"
+        },
+        {
+            "phrase_id": "0022",
+            "init_num": "0035",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "638.8564740",
+            "time_end": "640.2539740",
+            "sentence": "a kenenny ruadoi zavodal",
+            "sentence_rus": "a kenenny ruadoi zavodal"
+        },
+        {
+            "phrase_id": "0023",
+            "init_num": "0036",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "672.2889740",
+            "time_end": "674.7939740",
+            "sentence": "äijängo vuottu yhtes jo oletto elättö",
+            "sentence_rus": "äijängo vuottu yhtes jo oletto elättö"
+        },
+        {
+            "phrase_id": "0024",
+            "init_num": "0037",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "676.3064740",
+            "time_end": "677.8439740",
+            "sentence": "nellikymmenviizi",
+            "sentence_rus": "nellikymmenviizi"
+        },
+        {
+            "phrase_id": "0025",
+            "init_num": "0038",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "677.8439740",
+            "time_end": "681.9939740",
+            "sentence": "häi vot teidy täs dielos kirvesmiehen ruavos kannattaugo teidy",
+            "sentence_rus": "häi <vot>rus teidy täs dielos kirvesmiehen ruavos kannattaugo teidy"
+        },
+        {
+            "phrase_id": "0026",
+            "init_num": "0039",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "696.3664740",
+            "time_end": "699.4635385",
+            "sentence": "häi teidy ainos täs ruavos kui sanuo podderživaiči",
+            "sentence_rus": "häi teidy ainos täs ruavos kui sanuo podderživaiči"
+        },
+        {
+            "phrase_id": "0027",
+            "init_num": "0040",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "793.0865369",
+            "time_end": "794.7410000",
+            "sentence": "sammaldu da tuohtu pandih",
+            "sentence_rus": "sammaldu da tuohtu pandih"
+        },
+        {
+            "phrase_id": "0028",
+            "init_num": "0041",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "795.3485000",
+            "time_end": "800.5460000",
+            "sentence": "no sit mittuinebo puu parahite pädöy koin nostamižeh kylyn nostamižeh",
+            "sentence_rus": "<no>rus sit mittuinebo puu parahite pädöy koin nostamižeh kylyn nostamižeh"
+        },
+        {
+            "phrase_id": "0029",
+            "init_num": "0042",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "804.6210000",
+            "time_end": "806.3273313",
+            "sentence": "kusbo otatto puuloi",
+            "sentence_rus": "kusbo otatto puuloi"
+        },
+        {
+            "phrase_id": "0030",
+            "init_num": "0999",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "813.2635000",
+            "time_end": "813.4960000",
+            "sentence": "da",
+            "sentence_rus": "<da>rus"
+        },
+        {
+            "phrase_id": "0031",
+            "init_num": "0043",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "819.3368365",
+            "time_end": "820.9185000",
+            "sentence": "no teile valmehekse tuvvah",
+            "sentence_rus": "no teile valmehekse tuvvah"
+        },
+        {
+            "phrase_id": "0032",
+            "init_num": "0044",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "824.3160000",
+            "time_end": "828.7848975",
+            "sentence": "eihäi kaikkii puuloi otettu salvokseh mih kačottih",
+            "sentence_rus": "eihäi kaikkii puuloi otettu salvokseh mih kačottih"
+        },
+        {
+            "phrase_id": "0033",
+            "init_num": "0045",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "850.1385000",
+            "time_end": "851.7310000",
+            "sentence": "puu tuodi da",
+            "sentence_rus": "puu tuodi <da>rus"
+        },
+        {
+            "phrase_id": "0034",
+            "init_num": "0048",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "867.8935000",
+            "time_end": "871.5310000",
+            "sentence": "sit vestittö kuibo vot keriättö sidä salvostu",
+            "sentence_rus": "sit vestittö kuibo <vot>rus keriättö sidä salvostu"
+        },
+        {
+            "phrase_id": "0035",
+            "init_num": "0049",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "881.3285000",
+            "time_end": "882.1760000",
+            "sentence": "kirjutatto da",
+            "sentence_rus": "kirjutatto <da>rus"
+        },
+        {
+            "phrase_id": "0036",
+            "init_num": "0050",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "887.1485000",
+            "time_end": "888.8860000",
+            "sentence": "hyö iče kai kerätäh sie da",
+            "sentence_rus": "hyö iče kai kerätäh sie <da>rus"
+        },
+        {
+            "phrase_id": "0037",
+            "init_num": "0054",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "913.8835000",
+            "time_end": "915.1908544",
+            "sentence": "vägitukku pidäy",
+            "sentence_rus": "vägitukku pidäy"
+        },
+        {
+            "phrase_id": "0038",
+            "init_num": "0055",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "915.1908544",
+            "time_end": "918.2876734",
+            "sentence": "sit onnuakko aijoi huondeksel nouzetto joga päiviä",
+            "sentence_rus": "sit onnuakko aijoi huondeksel nouzetto joga päiviä"
+        },
+        {
+            "phrase_id": "0039",
+            "init_num": "0056",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "924.8783919",
+            "time_end": "928.3385000",
+            "sentence": "no nämmä puut ettohäi kuivua kerras",
+            "sentence_rus": "<no>rus nämmä puut ettohäi kuivua kerras"
+        },
+        {
+            "phrase_id": "0040",
+            "init_num": "0058",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "949.4785000",
+            "time_end": "951.6560000",
+            "sentence": "sammaldu pandihgo alustakse",
+            "sentence_rus": "sammaldu pandihgo alustakse"
+        },
+        {
+            "phrase_id": "0041",
+            "init_num": "0059",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "964.8385000",
+            "time_end": "967.5154282",
+            "sentence": "no sammaldu pandih štob lat'e ei happaniš da",
+            "sentence_rus": "no sammaldu pandih <štob>rus lat'e ei happaniš <da>rus"
+        },
+        {
+            "phrase_id": "0042",
+            "init_num": "0061",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "970.2935000",
+            "time_end": "972.0160000",
+            "sentence": "a levo konzu nostettih jo",
+            "sentence_rus": "a levo konzu nostettih jo"
+        },
+        {
+            "phrase_id": "0043",
+            "init_num": "0062",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1001.0960000",
+            "time_end": "1003.4010000",
+            "sentence": "no enne kodiloil äijygo venčua oli",
+            "sentence_rus": "no enne kodiloil äijygo venčua oli"
+        },
+        {
+            "phrase_id": "0044",
+            "init_num": "0064",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1005.3460000",
+            "time_end": "1008.3185000",
+            "sentence": "aiga suuret koit oldih no sie vie tahnuot",
+            "sentence_rus": "aiga suuret koit oldih <no>rus sie vie tahnuot"
+        },
+        {
+            "phrase_id": "0045",
+            "init_num": "0065",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1008.9796442",
+            "time_end": "1011.6260000",
+            "sentence": "huonukset tahtuot kai oldihhäi yhten levon al",
+            "sentence_rus": "huonukset tahtuot kai oldihhäi yhten levon al"
+        },
+        {
+            "phrase_id": "0046",
+            "init_num": "0066",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1031.2960000",
+            "time_end": "1033.8544895",
+            "sentence": "a mindäh vot huabaine puu pädöy",
+            "sentence_rus": "a mindäh <vot>rus huabaine puu pädöy"
+        },
+        {
+            "phrase_id": "0047",
+            "init_num": "0068",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1055.8910000",
+            "time_end": "1057.3760000",
+            "sentence": "a levo on kui uuzi",
+            "sentence_rus": "a levo on kui uuzi"
+        },
+        {
+            "phrase_id": "0048",
+            "init_num": "0069",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1076.7435000",
+            "time_end": "1079.4164130",
+            "sentence": "a lahkokse sežo pedäi pädöy",
+            "sentence_rus": "a lahkokse sežo pedäi pädöy"
+        },
+        {
+            "phrase_id": "0049",
+            "init_num": "0071",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1117.0635000",
+            "time_end": "1118.8735000",
+            "sentence": "olgie da olgiposteli",
+            "sentence_rus": "olgie <da>rus olgiposteli"
+        },
+        {
+            "phrase_id": "0050",
+            "init_num": "0073",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1147.0435000",
+            "time_end": "1150.4160000",
+            "sentence": "da nu aleksandr petrovič vot vie tahtoin kyzyö ikkunois",
+            "sentence_rus": "<da nu aleksandr petrovič>rus <vot>rus vie tahtoin kyzyö ikkunois"
+        },
+        {
+            "phrase_id": "0051",
+            "init_num": "0076",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1179.8593722",
+            "time_end": "1180.8950565",
+            "sentence": "a kynnykset",
+            "sentence_rus": "a kynnykset"
+        },
+        {
+            "phrase_id": "0052",
+            "init_num": "0077",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1180.8950565",
+            "time_end": "1182.1067663",
+            "sentence": "mittumat kynnykset",
+            "sentence_rus": "mittumat kynnykset"
+        },
+        {
+            "phrase_id": "0053",
+            "init_num": "0078",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1182.1067663",
+            "time_end": "1183.8435000",
+            "sentence": "kus pideli olla nämmä kynnykset",
+            "sentence_rus": "kus pideli olla nämmä kynnykset"
+        },
+        {
+            "phrase_id": "0054",
+            "init_num": "0079",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1183.8435000",
+            "time_end": "1184.9035000",
+            "sentence": "kunne azuttih",
+            "sentence_rus": "kunne azuttih"
+        },
+        {
+            "phrase_id": "0055",
+            "init_num": "0081",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1307.2690134",
+            "time_end": "1309.5102671",
+            "sentence": "pidäy maltua konešno luadie",
+            "sentence_rus": "pidäy maltua <konešno>rus luadie"
+        },
+        {
+            "phrase_id": "0056",
+            "init_num": "0084",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1363.9901286",
+            "time_end": "1366.3091610",
+            "sentence": "pideli olla erinomažet moižet terävät",
+            "sentence_rus": "pideli olla erinomažet moižet terävät"
+        },
+        {
+            "phrase_id": "0057",
+            "init_num": "0085",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1385.2564532",
+            "time_end": "1389.8128288",
+            "sentence": "no teile oma kirves onnuakko jäi naverno diedöispäi libo kenespäi",
+            "sentence_rus": "no teile oma kirves onnuakko jäi <naverno>rus diedöispäi <libo>rus kenespäi"
+        },
+        {
+            "phrase_id": "0058",
+            "init_num": "0087",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1397.0317338",
+            "time_end": "1402.4701000",
+            "sentence": "ei suannuh da enne andua vierahale oman kirvehen se moine primietty oli da onnuakko",
+            "sentence_rus": "ei suannuh <da>rus enne andua vierahale oman kirvehen se moine primietty oli <da>rus onnuakko"
+        },
+        {
+            "phrase_id": "0059",
+            "init_num": "0088",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1407.0631349",
+            "time_end": "1410.9152256",
+            "sentence": "aleksandr petrovič a midä vot mieldy oletto mittuine nygöi meččy on",
+            "sentence_rus": "<aleksandr petrovič>rus a midä <vot>rus mieldy oletto mittuine nygöi meččy on"
+        },
+        {
+            "phrase_id": "0060",
+            "init_num": "0089",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1410.9152256",
+            "time_end": "1415.7047539",
+            "sentence": "nygöi meččiä čällätäh kaikkeh luaduh pilatah sit lykitäh",
+            "sentence_rus": "nygöi meččiä čällätäh kaikkeh luaduh pilatah sit lykitäh"
+        },
+        {
+            "phrase_id": "0061",
+            "init_num": "0090",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1415.7047539",
+            "time_end": "1417.1505993",
+            "sentence": "nämmä kannot jätetäh",
+            "sentence_rus": "nämmä kannot jätetäh"
+        },
+        {
+            "phrase_id": "0062",
+            "init_num": "0091",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1417.1505993",
+            "time_end": "1418.8655993",
+            "sentence": "mittuine vot nygöi vot meččy",
+            "sentence_rus": "mittuine <vot>rus nygöi <vot>rus meččy"
+        },
+        {
+            "phrase_id": "0063",
+            "init_num": "0092",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1418.8655993",
+            "time_end": "1422.1255993",
+            "sentence": "ongo hyvä meččy gu työ nämii puuloi kuoritatto",
+            "sentence_rus": "ongo hyvä meččy gu työ nämii puuloi kuoritatto"
+        },
+        {
+            "phrase_id": "0064",
+            "init_num": "0094",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1455.5880993",
+            "time_end": "1458.0880993",
+            "sentence": "no nygöi meččiä ei ni ištuteta putilleh",
+            "sentence_rus": "no nygöi meččiä ei ni ištuteta putilleh"
+        },
+        {
+            "phrase_id": "0065",
+            "init_num": "0095",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1482.1205993",
+            "time_end": "1485.1105993",
+            "sentence": "da kazvau se vai ei kazva nikelle dieluo eulo sit",
+            "sentence_rus": "<da>rus kazvau se vai ei kazva nikelle dieluo eulo sit"
+        },
+        {
+            "phrase_id": "0066",
+            "init_num": "0097",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1587.7026339",
+            "time_end": "1590.4734153",
+            "sentence": "no nygöi kai järvet ligahižet da jovet",
+            "sentence_rus": "no nygöi kai järvet ligahižet da jovet"
+        },
+        {
+            "phrase_id": "0067",
+            "init_num": "0101",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1604.7724089",
+            "time_end": "1605.6726339",
+            "sentence": "sinne kävyttö",
+            "sentence_rus": "sinne kävyttö"
+        },
+        {
+            "phrase_id": "0068",
+            "init_num": "0103",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1615.2826339",
+            "time_end": "1616.5401339",
+            "sentence": "ongiruagal da",
+            "sentence_rus": "ongiruagal <da>rus"
+        },
+        {
+            "phrase_id": "0069",
+            "init_num": "0104",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1622.0474598",
+            "time_end": "1624.8001339",
+            "sentence": "kunnebo kalat kuivatto vai maimakse vai",
+            "sentence_rus": "kunnebo kalat kuivatto vai maimakse vai"
+        },
+        {
+            "phrase_id": "0070",
+            "init_num": "0106",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1642.5926339",
+            "time_end": "1643.7351339",
+            "sentence": "kartohkua kazvau",
+            "sentence_rus": "kartohkua kazvau"
+        },
+        {
+            "phrase_id": "0071",
+            "init_num": "0107",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1643.7351339",
+            "time_end": "1645.0451339",
+            "sentence": "suuri peldo teile on tiä",
+            "sentence_rus": "suuri peldo teile on tiä"
+        },
+        {
+            "phrase_id": "0072",
+            "init_num": "0108",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1651.0326339",
+            "time_end": "1652.4793861",
+            "sentence": "avvutetahgo teile",
+            "sentence_rus": "avvutetahgo teile"
+        },
+        {
+            "phrase_id": "0073",
+            "init_num": "0110",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1667.5826339",
+            "time_end": "1669.3076339",
+            "sentence": "ollahgo suuret bunukat",
+            "sentence_rus": "ollahgo suuret bunukat"
+        },
+        {
+            "phrase_id": "0074",
+            "init_num": "0111",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1676.0751339",
+            "time_end": "1678.2326339",
+            "sentence": "a kävyittögo meččah jo tänävuon",
+            "sentence_rus": "a kävyittögo meččah jo tänävuon"
+        },
+        {
+            "phrase_id": "0075",
+            "init_num": "0115",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1706.5376339",
+            "time_end": "1708.7126339",
+            "sentence": "a talvet kui mennäh talvet",
+            "sentence_rus": "a talvet kui mennäh talvet"
+        },
+        {
+            "phrase_id": "0076",
+            "init_num": "0116",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1708.7126339",
+            "time_end": "1713.3451339",
+            "sentence": "no työ kävyttö kalastamah da järvele midä vie ruatto talvel",
+            "sentence_rus": "no työ kävyttö kalastamah <da>rus järvele midä vie ruatto talvel"
+        },
+        {
+            "phrase_id": "0077",
+            "init_num": "0121",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1751.1876339",
+            "time_end": "1753.1226339",
+            "sentence": "a viego mečtättö etto",
+            "sentence_rus": "a viego mečtättö etto"
+        },
+        {
+            "phrase_id": "0078",
+            "init_num": "0122",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1758.8701339",
+            "time_end": "1761.3576339",
+            "sentence": "da a kuibo sit kondies piäzittö",
+            "sentence_rus": "<da>rus a kuibo sit kondies piäzittö"
+        },
+        {
+            "phrase_id": "0079",
+            "init_num": "0128",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1828.4826339",
+            "time_end": "1830.3776339",
+            "sentence": "a vot midäbo vot karjalazet sanottih",
+            "sentence_rus": "a <vot>rus midäbo <vot>rus karjalazet sanottih"
+        },
+        {
+            "phrase_id": "0080",
+            "init_num": "0129",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1830.3776339",
+            "time_end": "1832.8551339",
+            "sentence": "vot konzu kondiedu näit midä pidäy ruadua",
+            "sentence_rus": "<vot>rus konzu kondiedu näit midä pidäy ruadua"
+        },
+        {
+            "phrase_id": "0081",
+            "init_num": "0133",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1856.3976339",
+            "time_end": "1859.6510488",
+            "sentence": "sanotahhäi kondii gu mečänižändy on da",
+            "sentence_rus": "sanotahhäi kondii gu mečänižändy on <da>rus"
+        },
+        {
+            "phrase_id": "0082",
+            "init_num": "0134",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1866.6654563",
+            "time_end": "1867.8612734",
+            "sentence": "kuibo nygöi elos",
+            "sentence_rus": "kuibo nygöi elos"
+        },
+        {
+            "phrase_id": "0083",
+            "init_num": "0135",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1875.0187734",
+            "time_end": "1876.7887734",
+            "sentence": "penzii tulougo aigoinah",
+            "sentence_rus": "penzii tulougo aigoinah"
+        },
+        {
+            "phrase_id": "0084",
+            "init_num": "0137",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1886.2162734",
+            "time_end": "1888.5537734",
+            "sentence": "teile on tiä kaksi laukkua da",
+            "sentence_rus": "teile on tiä kaksi laukkua <da>rus"
+        },
+        {
+            "phrase_id": "0085",
+            "init_num": "0138",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1888.5537734",
+            "time_end": "1890.3637734",
+            "sentence": "avtalavku ei kävy tänne sit",
+            "sentence_rus": "avtalavku ei kävy tänne sit"
+        },
+        {
+            "phrase_id": "0086",
+            "init_num": "0141",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1907.8562734",
+            "time_end": "1911.4312734",
+            "sentence": "no tiä naverno kallehel hinnal laukas myvväh da syömižii",
+            "sentence_rus": "no tiä <naverno>rus kallehel hinnal laukas myvväh <da>rus syömižii"
+        },
+        {
+            "phrase_id": "0087",
+            "init_num": "0142",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1912.0861501",
+            "time_end": "1914.2987734",
+            "sentence": "työ täs ostatto vai linnah ajeletto",
+            "sentence_rus": "työ täs ostatto vai linnah ajeletto"
+        },
+        {
+            "phrase_id": "0088",
+            "init_num": "0143",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1914.2987734",
+            "time_end": "1915.9689430",
+            "sentence": "vai kus ostatto syömižii",
+            "sentence_rus": "vai kus ostatto syömižii"
+        },
+        {
+            "phrase_id": "0089",
+            "init_num": "0144",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1925.3387734",
+            "time_end": "1925.7812734",
+            "sentence": "da",
+            "sentence_rus": "da"
+        },
+        {
+            "phrase_id": "0090",
+            "init_num": "0149",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1939.2487734",
+            "time_end": "1942.4287734",
+            "sentence": "no täs avtoubussu nygöi vie pidäy puuttuo maltua",
+            "sentence_rus": "no täs avtoubussu nygöi vie pidäy puuttuo maltua"
+        },
+        {
+            "phrase_id": "0091",
+            "init_num": "0150",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1944.3487734",
+            "time_end": "1948.2037734",
+            "sentence": "no muite täs verhn'oil hierus kudakui on",
+            "sentence_rus": "no muite täs verhn'oil hierus kudakui on"
+        },
+        {
+            "phrase_id": "0092",
+            "init_num": "0151",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1948.2037734",
+            "time_end": "1949.2237734",
+            "sentence": "suaugo eliä",
+            "sentence_rus": "suaugo eliä"
+        },
+        {
+            "phrase_id": "0093",
+            "init_num": "0152",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1962.9087734",
+            "time_end": "1965.2662734",
+            "sentence": "talvel vähä rahvastu da tiä eläy",
+            "sentence_rus": "talvel vähä rahvastu <da>rus tiä eläy"
+        },
+        {
+            "phrase_id": "0094",
+            "init_num": "0155",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1990.1145261",
+            "time_end": "1991.7487734",
+            "sentence": "lapset kazvatitto",
+            "sentence_rus": "lapset kazvatitto"
+        },
+        {
+            "phrase_id": "0095",
+            "init_num": "0157",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "1999.5073233",
+            "time_end": "2003.8987734",
+            "sentence": "midäbo vie himoitaš elokses no sanommo ruadua midätahto",
+            "sentence_rus": "midäbo vie himoitaš elokses <no>rus sanommo ruadua midätahto"
+        },
+        {
+            "phrase_id": "0096",
+            "init_num": "0159",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2013.3612734",
+            "time_end": "2014.5337734",
+            "sentence": "ruaduo on",
+            "sentence_rus": "ruaduo on"
+        },
+        {
+            "phrase_id": "0097",
+            "init_num": "0162",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2053.7837734",
+            "time_end": "2056.5062734",
+            "sentence": "a tiä vern'oile suauhäi kuulta karjalua",
+            "sentence_rus": "a tiä vern'oile suauhäi kuulta karjalua"
+        },
+        {
+            "phrase_id": "0098",
+            "init_num": "0165",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2072.4287734",
+            "time_end": "2073.4087734",
+            "sentence": "venäkse kyzyy",
+            "sentence_rus": "venäkse kyzyy"
+        },
+        {
+            "phrase_id": "0099",
+            "init_num": "0166",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2081.0787734",
+            "time_end": "2084.5937734",
+            "sentence": "työ omien kažinke da koiranke pagižetto karjalakse mugahäi",
+            "sentence_rus": "työ omien kažinke da koiranke pagižetto karjalakse mugahäi"
+        },
+        {
+            "phrase_id": "0100",
+            "init_num": "0168",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2098.0562734",
+            "time_end": "2098.7087734",
+            "sentence": "oi moločču",
+            "sentence_rus": "oi moločču"
+        },
+        {
+            "phrase_id": "0101",
+            "init_num": "0169",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2098.7087734",
+            "time_end": "2100.5712734",
+            "sentence": "a karjalažet nimet ollah",
+            "sentence_rus": "a karjalažet nimet ollah"
+        },
+        {
+            "phrase_id": "0102",
+            "init_num": "0170",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2101.2412734",
+            "time_end": "2102.0162734",
+            "sentence": "kissi",
+            "sentence_rus": "kissi"
+        },
+        {
+            "phrase_id": "0103",
+            "init_num": "0172",
+            "link": "https://tv-karelia.ru/kirvesmies-aleksandr-ivanov/",
+            "time_start": "2106.6362734",
+            "time_end": "2107.5762734",
+            "sentence": "a koiral",
+            "sentence_rus": "a koiral"
+        },
+        {
+            "phrase_id": "0104",
+            "init_num": "0173",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "166.6180296",
+            "time_end": "169.8325040",
+            "sentence": "midä babaspäi mamaspäi on jiännyh teijän koiš",
+            "sentence_rus": "midä babaspäi mamaspäi on jiännyh teijän koiš"
+        },
+        {
+            "phrase_id": "0105",
+            "init_num": "0174",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "192.5219765",
+            "time_end": "194.2345521",
+            "sentence": "a vot päčin työ riičiittö da",
+            "sentence_rus": "a <vot>rus päčin työ riičiittö <da>rus"
+        },
+        {
+            "phrase_id": "0106",
+            "init_num": "0175",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "226.9818222",
+            "time_end": "232.1584257",
+            "sentence": "endižeh tabah srojittu kodi moižet leviet parret ollah lattiel",
+            "sentence_rus": "endižeh tabah srojittu kodi moižet leviet parret ollah lattiel"
+        },
+        {
+            "phrase_id": "0107",
+            "init_num": "0177",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "245.5378217",
+            "time_end": "247.9783258",
+            "sentence": "nygöi puudu moštu ei kazva onnuakko",
+            "sentence_rus": "nygöi puudu moštu ei kazva onnuakko"
+        },
+        {
+            "phrase_id": "0108",
+            "init_num": "0182",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "436.4349853",
+            "time_end": "439.5751675",
+            "sentence": "enne utjärves oli läs nelliäkymmendy taloidu",
+            "sentence_rus": "enne utjärves oli läs nelliäkymmendy taloidu"
+        },
+        {
+            "phrase_id": "0109",
+            "init_num": "0183",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "439.5751675",
+            "time_end": "443.0029228",
+            "sentence": "ičegi smietikkiä äijygo rahvastu sie eli",
+            "sentence_rus": "ičegi smietikkiä äijygo rahvastu sie eli"
+        },
+        {
+            "phrase_id": "0110",
+            "init_num": "0184",
+            "link": "https://tv-karelia.ru/uutjarven-kylan-elaijas/",
+            "time_start": "443.0029228",
+            "time_end": "449.2701254",
+            "sentence": "utjärvi oli kuulužu omil soittajil käziruadoloin muasteriloil da kalastajil",
+            "sentence_rus": "utjärvi oli kuulužu omil soittajil käziruadoloin muasteriloil da kalastajil"
+        },
+        {
+            "phrase_id": "0111",
+            "init_num": "0211",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "180.7823742",
+            "time_end": "187.0673742",
+            "sentence": "muga voinan alguu da komunnan elostu mustelou aleksandr vasiljevič šalgujev",
+            "sentence_rus": "muga voinan alguu da komunnan elostu mustelou <aleksandr vasiljevič šalgujev>rus"
+        },
+        {
+            "phrase_id": "0112",
+            "init_num": "0212",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "187.0673742",
+            "time_end": "192.9273742",
+            "sentence": "voinu koskiihes onnuakko joga perehty i teijängi perehes voinu jätti suuren jällen",
+            "sentence_rus": "voinu koskiihes onnuakko joga perehty i teijängi perehes voinu jätti suuren jällen"
+        },
+        {
+            "phrase_id": "0113",
+            "init_num": "0213",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "192.9273742",
+            "time_end": "196.4423742",
+            "sentence": "työ olitto onnukko pienenny lapsennu da konzu algavui voinu",
+            "sentence_rus": "työ olitto onnukko pienenny lapsennu <da>rus konzu algavui voinu"
+        },
+        {
+            "phrase_id": "0114",
+            "init_num": "0214",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "230.6748742",
+            "time_end": "232.8423742",
+            "sentence": "aleksandr vasiljevič vot keskustan prostikkua",
+            "sentence_rus": "<aleksandr vasiljevič vot>rus keskustan prostikkua"
+        },
+        {
+            "phrase_id": "0115",
+            "init_num": "0215",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "232.8423742",
+            "time_end": "234.5648742",
+            "sentence": "vot säde komunnu kusbo se oli",
+            "sentence_rus": "<vot>rus säde komunnu kusbo se oli"
+        },
+        {
+            "phrase_id": "0116",
+            "init_num": "0216",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "234.5648742",
+            "time_end": "235.8823742",
+            "sentence": "oligo tiä anukses",
+            "sentence_rus": "oligo tiä anukses"
+        },
+        {
+            "phrase_id": "0117",
+            "init_num": "0218",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "268.8398742",
+            "time_end": "269.5098742",
+            "sentence": "no tiijen",
+            "sentence_rus": "<no>rus tiijen"
+        },
+        {
+            "phrase_id": "0118",
+            "init_num": "0230",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "910.6670830",
+            "time_end": "912.4337107",
+            "sentence": "a midäbo akat ruattih",
+            "sentence_rus": "a midäbo akat ruattih"
+        },
+        {
+            "phrase_id": "0119",
+            "init_num": "0238",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "1111.5684026",
+            "time_end": "1114.0195830",
+            "sentence": "a gu počit oldih kunnebo liha sit meni",
+            "sentence_rus": "a gu počit oldih kunnebo liha sit meni"
+        },
+        {
+            "phrase_id": "0120",
+            "init_num": "0240",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "1133.8064666",
+            "time_end": "1134.7556522",
+            "sentence": "a talvel",
+            "sentence_rus": "a talvel"
+        },
+        {
+            "phrase_id": "0121",
+            "init_num": "0259",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "1620.6998823",
+            "time_end": "1625.3273091",
+            "sentence": "no vot erähät suomelažii moititah no yksikai syvvä oli da ruaduo oli",
+            "sentence_rus": "<no vot>rus erähät suomelažii moititah no yksikai syvvä oli da ruaduo oli"
+        },
+        {
+            "phrase_id": "0122",
+            "init_num": "0262",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "1685.8750961",
+            "time_end": "1687.5969127",
+            "sentence": "a oligo teijän tata voinal",
+            "sentence_rus": "a oligo teijän tata voinal"
+        },
+        {
+            "phrase_id": "0123",
+            "init_num": "0269",
+            "link": "https://tv-karelia.ru/75-vuotta-aunuksen-vapautamisesta/",
+            "time_start": "1817.7069127",
+            "time_end": "1818.8169127",
+            "sentence": "pietähgo čestis",
+            "sentence_rus": "pietähgo čestis"
+        },
+        {
+            "phrase_id": "0124",
+            "init_num": "0273",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1135.5371435",
+            "time_end": "1141.1442016",
+            "sentence": "aleksandr svirskoin manasterin elaigu ei äijäl erovunnuh toižis manasterilois",
+            "sentence_rus": "<aleksandr>rus svirskoin manasterin elaigu ei äijäl erovunnuh toižis manasterilois"
+        },
+        {
+            "phrase_id": "0125",
+            "init_num": "0274",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1141.5604793",
+            "time_end": "1146.5075849",
+            "sentence": "kaikkie tuli kestiä manasteril voinat kiškondat tulipalot",
+            "sentence_rus": "kaikkie tuli kestiä manasteril voinat kiškondat tulipalot"
+        },
+        {
+            "phrase_id": "0126",
+            "init_num": "0275",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1146.7195312",
+            "time_end": "1155.5108602",
+            "sentence": "toiči se oli hävitetty muanpindassah ga jumalan avul da manuahoin raden'n'al da malittuloil manasteri elavui uvvessah",
+            "sentence_rus": "toiči se oli hävitetty muanpindassah ga jumalan avul da manuahoin raden'n'al da malittuloil manasteri elavui uvvessah"
+        },
+        {
+            "phrase_id": "0127",
+            "init_num": "0276",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1155.9322145",
+            "time_end": "1161.2537162",
+            "sentence": "enne suurdu revol'uciedu kudai sytyi vuvvennu tuhat yheksäsadua kaheksatoštu",
+            "sentence_rus": "enne suurdu revol'uciedu kudai sytyi vuvvennu tuhat yheksäsadua kaheksatoštu"
+        },
+        {
+            "phrase_id": "0128",
+            "init_num": "0277",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1161.4529711",
+            "time_end": "1166.0125000",
+            "sentence": "aleksandr svirskoin manasteris eli enämbi kahtusadua manuahua",
+            "sentence_rus": "<aleksandr>rus svirskoin manasteris eli enämbi kahtusadua manuahua"
+        },
+        {
+            "phrase_id": "0129",
+            "init_num": "0278",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1166.0125000",
+            "time_end": "1169.3965149",
+            "sentence": "oli piäle nelliäkymmendy hebuo da sada lehmiä",
+            "sentence_rus": "oli piäle nelliäkymmendy hebuo da sada lehmiä"
+        },
+        {
+            "phrase_id": "0130",
+            "init_num": "0279",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1169.6465354",
+            "time_end": "1178.2436861",
+            "sentence": "manasterin vellestö ruadoi muadu kazvatti vil'l'ua ouvoššiloi da avvutti lähi hieruloin eläjii da orbolapsii",
+            "sentence_rus": "manasterin vellestö ruadoi muadu kazvatti vil'l'ua ouvoššiloi da avvutti lähi hieruloin eläjii da orbolapsii"
+        },
+        {
+            "phrase_id": "0131",
+            "init_num": "0280",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1178.5432030",
+            "time_end": "1181.3454629",
+            "sentence": "ga rauhan eloksen keskusti voinu",
+            "sentence_rus": "ga rauhan eloksen keskusti voinu"
+        },
+        {
+            "phrase_id": "0132",
+            "init_num": "0281",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1562.3915000",
+            "time_end": "1566.0315000",
+            "sentence": "a nikolai petrovič a tiijettogo säilyigo vahnua obrazua",
+            "sentence_rus": "a <nikolai petrovič>rus a tiijettogo säilyigo vahnua obrazua"
+        },
+        {
+            "phrase_id": "0133",
+            "init_num": "0283",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1645.1524763",
+            "time_end": "1652.5172925",
+            "sentence": "no pyhä aleksandruhäi avvutti äijil ristittyžil da midä myö tänäpäi tiijemmo hänen pyhädielolois",
+            "sentence_rus": "<no>rus pyhä aleksandruhäi avvutti äijil ristittyžil <da>rus midä myö tänäpäi tiijemmo hänen pyhädielolois"
+        },
+        {
+            "phrase_id": "0134",
+            "init_num": "0285",
+            "link": "https://tv-karelia.ru/118715-2/",
+            "time_start": "1839.0820614",
+            "time_end": "1842.7440000",
+            "sentence": "aha no nikolai petrovič jälgikerdua konzubo olitto manasteris",
+            "sentence_rus": "aha <no nikolai petrovič>rus jälgikerdua konzubo olitto manasteris"
+        },
+        {
+            "phrase_id": "0135",
+            "init_num": "0286",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "160.8090000",
+            "time_end": "167.9065000",
+            "sentence": "l'udmila aleksejevna vot sanelkua minul kuibo sai vot azuo moine hyvä dielo vediä tulet tänne sviettu vediä täh hieruh",
+            "sentence_rus": "<l'udmila aleksejevna>rus <vot>rus sanelkua minul kuibo sai <vot>rus azuo moine hyvä dielo vediä tulet tänne sviettu vediä täh hieruh"
+        },
+        {
+            "phrase_id": "0136",
+            "init_num": "0287",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "167.9065000",
+            "time_end": "169.9940000",
+            "sentence": "eihäi igänäh olluh täs tuldu",
+            "sentence_rus": "eihäi igänäh olluh täs tuldu"
+        },
+        {
+            "phrase_id": "0137",
+            "init_num": "0288",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "205.8715000",
+            "time_end": "208.0940000",
+            "sentence": "no tämä proektu da oli ved'",
+            "sentence_rus": "no tämä proektu <da>rus oli <ved'>rus"
+        },
+        {
+            "phrase_id": "0138",
+            "init_num": "0293",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "383.0745165",
+            "time_end": "385.5690000",
+            "sentence": "ičego eläjät vai valmehekse",
+            "sentence_rus": "ičego eläjät vai valmehekse"
+        },
+        {
+            "phrase_id": "0139",
+            "init_num": "0295",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "400.9390000",
+            "time_end": "403.8940000",
+            "sentence": "kui pitky on kolme kilometrii tämä liinii",
+            "sentence_rus": "kui pitky on kolme kilometrii tämä liinii"
+        },
+        {
+            "phrase_id": "0140",
+            "init_num": "0296",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "405.3394170",
+            "time_end": "405.6457884",
+            "sentence": "da",
+            "sentence_rus": "<da>rus"
+        },
+        {
+            "phrase_id": "0141",
+            "init_num": "0317",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1125.4357518",
+            "time_end": "1131.5282518",
+            "sentence": "a rahvastu äijygo vot nämis hierulois kaikkiedah vot poseleinies on rahvastu eläjiä da i hieruloisgi",
+            "sentence_rus": "a rahvastu äijygo <vot>rus nämis hierulois kaikkiedah <vot>rus poseleinies on rahvastu eläjiä da i hieruloisgi"
+        },
+        {
+            "phrase_id": "0142",
+            "init_num": "0319",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1172.5132518",
+            "time_end": "1173.0207518",
+            "sentence": "da",
+            "sentence_rus": "<da>rus"
+        },
+        {
+            "phrase_id": "0143",
+            "init_num": "0321",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1209.3179668",
+            "time_end": "1211.5607518",
+            "sentence": "a enne škola suuri onnuakko oli da",
+            "sentence_rus": "a enne škola suuri onnuakko oli <da>rus"
+        },
+        {
+            "phrase_id": "0144",
+            "init_num": "0323",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1242.2507518",
+            "time_end": "1246.3882518",
+            "sentence": "nu sanotto što kezäkse tullah i moskovas i piiterispäi eläjät",
+            "sentence_rus": "nu sanotto <što>rus kezäkse tullah i moskovas i piiterispäi eläjät"
+        },
+        {
+            "phrase_id": "0145",
+            "init_num": "0324",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1246.7157518",
+            "time_end": "1247.6118614",
+            "sentence": "se huogavutah",
+            "sentence_rus": "se huogavutah"
+        },
+        {
+            "phrase_id": "0146",
+            "init_num": "0325",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1247.6118614",
+            "time_end": "1251.3382518",
+            "sentence": "a midäbo vot kuduat alalleh ainos eletäh hierulois midä ruatah",
+            "sentence_rus": "a midäbo <vot>rus kuduat alalleh ainos eletäh hierulois midä ruatah"
+        },
+        {
+            "phrase_id": "0147",
+            "init_num": "0327",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1361.4716620",
+            "time_end": "1362.1118216",
+            "sentence": "nelli vuottu",
+            "sentence_rus": "nelli vuottu"
+        },
+        {
+            "phrase_id": "0148",
+            "init_num": "0329",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1741.4656612",
+            "time_end": "1743.7006612",
+            "sentence": "a viego rahvas lehmäh niškoi niitetäh",
+            "sentence_rus": "a viego rahvas lehmäh niškoi niitetäh"
+        },
+        {
+            "phrase_id": "0149",
+            "init_num": "0332",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1779.9381612",
+            "time_end": "1781.5856612",
+            "sentence": "suuret ruavot muga muga",
+            "sentence_rus": "suuret ruavot muga muga"
+        },
+        {
+            "phrase_id": "0150",
+            "init_num": "0333",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1781.5856612",
+            "time_end": "1786.4167079",
+            "sentence": "muite työ puaksuh vastavutto rahvahanke pagižetto midä heidy huolestuttau",
+            "sentence_rus": "muite työ puaksuh vastavutto rahvahanke pagižetto midä heidy huolestuttau"
+        },
+        {
+            "phrase_id": "0151",
+            "init_num": "0334",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1786.4167079",
+            "time_end": "1787.7706612",
+            "sentence": "midä hyö tahtottaš",
+            "sentence_rus": "midä hyö tahtottaš"
+        },
+        {
+            "phrase_id": "0152",
+            "init_num": "0336",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1818.8684883",
+            "time_end": "1819.3787600",
+            "sentence": "problemu",
+            "sentence_rus": "problemu"
+        },
+        {
+            "phrase_id": "0153",
+            "init_num": "0338",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1851.3981612",
+            "time_end": "1853.6256612",
+            "sentence": "pidäy ruadua kaikin yhtes",
+            "sentence_rus": "pidäy ruadua kaikin yhtes"
+        },
+        {
+            "phrase_id": "0154",
+            "init_num": "0340",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1875.0033675",
+            "time_end": "1876.7514434",
+            "sentence": "passibo teile suuri paginas",
+            "sentence_rus": "passibo teile suuri paginas"
+        },
+        {
+            "phrase_id": "0155",
+            "init_num": "0342",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1883.0831612",
+            "time_end": "1884.4171724",
+            "sentence": "midä taivottažitto",
+            "sentence_rus": "midä taivottažitto"
+        },
+        {
+            "phrase_id": "0156",
+            "init_num": "0298",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "618.9412239",
+            "time_end": "622.5840000",
+            "sentence": "svetlana mihailovna kuibo elittö enne konzu tuldu euluh",
+            "sentence_rus": "<svetlana mihailovna>rus kuibo elittö enne konzu tuldu euluh"
+        },
+        {
+            "phrase_id": "0157",
+            "init_num": "0299",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "755.6523709",
+            "time_end": "762.5158364",
+            "sentence": "kuni minä olen hengis sanou svetlana mihailovna čuprova omua mägrätjärvie nikonzu en hylgiä",
+            "sentence_rus": "kuni minä olen hengis sanou <svetlana mihailovna čuprova>rus omua mägrätjärvie nikonzu en hylgiä"
+        },
+        {
+            "phrase_id": "0158",
+            "init_num": "0300",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "762.7658113",
+            "time_end": "767.4411405",
+            "sentence": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah",
+            "sentence_rus": "kui ennegi häi pidäy ogrodua kävyy ukonke meččäh da kalah"
+        },
+        {
+            "phrase_id": "0159",
+            "init_num": "0301",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "829.3365000",
+            "time_end": "833.6766886",
+            "sentence": "svetlana mihailovna midäbo vot vie himoittaš omah hiruh niškoi azuo",
+            "sentence_rus": "<svetlana mihailovna>rus midäbo <vot>rus vie himoittaš omah hiruh niškoi azuo"
+        },
+        {
+            "phrase_id": "0160",
+            "init_num": "0303",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "860.2665000",
+            "time_end": "862.7726561",
+            "sentence": "a vetty kuspäi kaivospäi otatto da kodih",
+            "sentence_rus": "a vetty kuspäi kaivospäi otatto <da>rus kodih"
+        },
+        {
+            "phrase_id": "0161",
+            "init_num": "0314",
+            "link": "https://tv-karelia.ru/kuibo-elat-kuittizen-kylakundu-2/",
+            "time_start": "1000.0349761",
+            "time_end": "1001.7177809",
+            "sentence": "viego kartohkua panetto",
+            "sentence_rus": "viego kartohkua panetto"
+        }
+    ]
 }
