@@ -1,10 +1,10 @@
 # AnKaS
 
-The official repository for "AnKaS", [INTERSPEECH 2024](https://interspeech2024.org/) (submitted)
+The official repository for "AnKaS", [SPECOM 2024] https://specom2024.ftn.uns.ac.rs/ (submitted)
 
 ## Abstract
 
-This paper presents a new Livvi-Karelian corpus, addressing challenges encountered in low-resource language research. The main research goal was to collect and annotate new speech data, as well as to create a transcription dictionary. The corpus includes transcripts from radio broadcasts, featuring samples from 17 speakers (7 males and 10 females). Covering about 4.5 hours of audio recordings, it contains 32037 words, thus being a valuable tool for linguistic research. Among the peculiarities of the presented corpus are instances of code-switching between Livvi-Karelian and Russian. The baseline experiments were carried out with the Kaldi toolkit. Hybrid DNN/HMMs with factorized time-delay neural networks were utilized for acoustic modeling, while trigram and LSTM-based models were used for language modeling. The proposed model allowed achieving the Word Error Rate (WER) of 26%.
+The corpus includes transcripts from radio broadcasts, featuring samples from 17 speakers (7 males and 10 females). Covering about 4.5 hours of audio recordings, it contains 32037 words, thus being a valuable tool for linguistic research. Among the peculiarities of the presented corpus are instances of code-switching between Livvi-Karelian and Russian. The baseline experiments were carried out with the Kaldi toolkit. Hybrid DNN/HMMs with factorized time-delay neural networks were utilized for acoustic modeling, while trigram and LSTM-based models were used for language modeling. The proposed model allowed achieving the Word Error Rate (WER) of 26%.
 
 ## Acknowledgments
 
